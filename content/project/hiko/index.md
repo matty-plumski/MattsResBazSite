@@ -4,7 +4,7 @@ summary: Hiko is a digital writing and publishing platform developed to create i
 tags:
 - Digital Publishing
 - Digital Journalism
-- Open Source
+- open source
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
