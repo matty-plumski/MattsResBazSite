@@ -15,6 +15,24 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "open-access"
+  icon_pack = "ai"
+  name = "Data Publishing"
+
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = "100%"  
+  
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Photography"
+  description = "10%"
+
+  [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
