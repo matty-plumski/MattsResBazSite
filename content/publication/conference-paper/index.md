@@ -30,11 +30,11 @@ links:
 - name: Custom Link
   url: https://enjoy.org.nz/publishing/the-occasional-journal/the-dendromaniac/out-of-the-woods-the-return-of-twin-peaks#article
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
 url_source: '#'
 url_video: 'https://youtu.be/ijGyHv4WkDs'
 
