@@ -19,7 +19,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/kauri_classroom
+  url: https://twitter.com/hashtag/resbazwelli
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
@@ -33,8 +33,6 @@ links:
 slides: example
 ---
 
-Te Kura o te Kauri is an education/outreach project aimed at children, their whānau, and communities. 
+>“ Creativity requires input, and that’s what research is. You’re gathering material with which to build” — Gene Luen Yang
 
-​Our project teaches children about the science and mātauranga of the ngahere. We use sensory experiences to connect children with science and the natural world, to encourage their natural curiosity and to set them on the path to a lifelong interest in kaitiakitanga (guardianship of their environment).
-
-Our project brings impactful engagement, research-grade equipment and technology, and world-class expertise to communities in Te Tai Tokerau.
+People often intuitively oppose science to art and creativity. However, the intersection of seemingly opposing fields is where the best research projects can happen. Innovation and scientific discovery are , definition taking a step into a new direction or approaching an old problem from a (creative) new viewpoint.
