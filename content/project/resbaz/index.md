@@ -1,10 +1,10 @@
 ---
-title: Customising Open Source Tools
-summary: Working with a group of third year computer science students, we adapted and augmented popular digital journalism tools
+title: ResBaz
+summary: Skill development and research community building
 tags:
 - code
 - open source
-- digital storytelling
+- skill development
 - research impact
 date: "2016-04-27T00:00:00Z"
 
@@ -12,18 +12,18 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Git Hub commits from the gourp
+  caption: Inaugural ResBaz Welli, 2016
   focal_point: Smart
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/matty-plumski
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+  url: https://twitter.com/hashtag/resbazwelli
+#url_code: ""
+#url_pdf: ""
+#url_slides: ""
+#url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -33,10 +33,6 @@ url_video: ""
 slides: example
 ---
 
-Working with a group of third year computer science students, we adapted and augmented popular digital journalism tools
+>“ Creativity requires input, and that’s what research is. You’re gathering material with which to build” — Gene Luen Yang
 
-![Twitter kudos](kudosTweet.jpg)
-
-> “It’s been a fun adventure to collaborate with a team on the other side of the planet. I was immediately impressed at how quickly the VUW students were able to get up to speed with our code. They also really seem to understand the technical and communication dynamics of contributing to open source.”
-	
->	- Joe Germuska, Chief Nerd, knight lab
+People often intuitively oppose science to art and creativity. However, the intersection of seemingly opposing fields is where the best research projects can happen. Innovation and scientific discovery are , definition taking a step into a new direction or approaching an old problem from a (creative) new viewpoint.
