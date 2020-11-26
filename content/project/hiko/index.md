@@ -1,6 +1,6 @@
 ---
 title: Hiko Digital Publishing Platform
-summary: Hiko is a digital writing and publishing platform developed for Victoria University of Wellington. Hiko was produced out of a need to allow students to create individual and collaborative texts that were interactive, co-creative and media-rich, without requiring specialist coding skills.
+summary: Hiko is a digital writing and publishing platform developed to create individual and collaborative texts that were interactive, co-creative and media-rich, without requiring specialist coding skills.
 tags:
 - Digital Publishing
 - Digital Journalism

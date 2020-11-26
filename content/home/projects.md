@@ -28,6 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Technology"
     tag = "Deep Learning"
+
+  [[content.filter_button]]
+    name = "Open Source"
+    tag = "Open Source
   
   [[content.filter_button]]
     name = "Other"
