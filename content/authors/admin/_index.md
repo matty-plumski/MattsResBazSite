@@ -1,37 +1,31 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Matt Plummer
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Digital Research Consultant
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Victoria University of Wellington
+  url: "https://www.wgtn.ac.nz/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Digital interpreter with a background in the arts and technology.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Digital Humanities
+- Researcher Development
+- High Performance Computing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MA(Hons) in Art History
+    institution: Victoria University of Wellington
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +34,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:matt.plummer@vuw.ac.nz'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/matty-plumski
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/matty_plumski
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +60,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Matt’s background spans the arts and technology, working as an Art History Teaching Fellow and Visual Resources Administrator before taking up a position in Victoria University of Wellington’s Information Technology unit.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In his current role as a Digital Research Consultant, he acts as a ‘digital interpreter’, working with researchers from different disciplines to utilise technology in innovative and transformative ways. He has assisted with the development of open source projects and research tools, coordinated numerous community-building and training events, and enjoys the opportunity to introduce researchers to new approaches and collaborators.
