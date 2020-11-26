@@ -31,7 +31,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Open Source"
-    tag = "Open Source"
+    tag = "open source"
   
   [[content.filter_button]]
     name = "Other"
