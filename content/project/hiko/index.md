@@ -2,8 +2,8 @@
 title: Hiko Digital Publishing Platform
 summary: Hiko is a digital writing and publishing platform developed to create individual and collaborative texts that were interactive, co-creative and media-rich, without requiring specialist coding skills.
 tags:
-- Digital Publishing
-- Digital Journalism
+- code
+- digital journalism
 - open source
 date: "2016-04-27T00:00:00Z"
 
@@ -15,7 +15,7 @@ image:
   focal_point: Smart
 
 links:
-url_code: ""
+url_code: "https://github.com/ryanachten/Hiko"
 url_pdf: ""
 url_slides: ""
 url_video: ""

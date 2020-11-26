@@ -1,10 +1,10 @@
 ---
 title: Colliding Worlds
-summary: A bespoke network visualisation of Projects using VR at Victoria Universityo of Wellington.
+summary: A bespoke network visualisation of projects using VR at Victoria University of Wellington.
 tags:
-- Demo
-- Code
-- Data Visulisation
+- demo
+- code
+- data visulisation
 date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
