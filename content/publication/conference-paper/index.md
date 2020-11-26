@@ -75,3 +75,11 @@ $$\gamma_{n} = \frac{
 \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
 \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
 {\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
