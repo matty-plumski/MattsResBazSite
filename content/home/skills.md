@@ -17,20 +17,18 @@ subtitle = ""
 [[feature]]
   icon = "open-access"
   icon_pack = "ai"
-  name = "Data Publishing"
+  name = "Open Access"
 
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "figshare"
+  icon_pack = "ai"
+  name = "Data Publishing" 
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "dataverse"
+  icon_pack = "ai"
+  name = "Network Analysis"
 
   [[feature]]
   icon = "r-project"
@@ -39,16 +37,15 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "orcid"
+  icon_pack = "ai"
+  name = "Research Provenance"
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "stackoverflow"
+  icon_pack = "ai"
+  name = "Research Support"
+ 
 
 # Uncomment to use emoji icons.
 # [[feature]]
