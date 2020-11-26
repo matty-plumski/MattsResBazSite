@@ -18,13 +18,9 @@ publication_types: ["1"]
 publication: In *Source Themes Publications*
 publication_short: In *STP*
 
-abstract: At 8:30am on October 3rd 2014, Twin Peaks co-creators David Lynch and Mark Frost simultaneously tweeted “That gum you like is going to come back in style!” While gibberish to the uninitiated, fans of the series immediately knew what it signalled: Laura Palmer’s promise to see us again in twenty-five years would be made good. Sure enough, soon after this typically cryptic heads-up US cable channel Showtime announced that nine new episodes of one of television’s most iconic shows will air in 2016, each written by Lynch/Frost, directed by Lynch, and shot on 35-mm celluloid.4 Little more has been revealed about the forthcoming third series other than Frost’s assurances that the plot will tell the “next chapter” of theTwin Peaks story, that it will be set in the present day, and most recently that Kyle MacLachlan will return to play Special Agent Dale Cooper.5 A quote from Showtime’s press release, however, seemingly confirms what many Peakies would’ve already suspected: trees will continue to play a central role in the show’s narrative and mythology. Lynch and Frost’s final sentiment? “The mysterious and special world of Twin Peaks is pulling us back. We’re very excited. May the forest be with you.”6
-
-The pun may be a bit laboured, but it does more than just remind hardcore fans that Lynch was once asked to direct Star Wars VI: Return of the Jedi; it also highlights the prominent, mysterious, and apparently magnetic role trees play in Twin Peaks.7 From the Log Lady to the Bookhouse Boys (whose sigil consists of a sword superimposed over a pine); from the timber-dominated interiors to the frequent shots of wind blowing through Ghostwood National Forest, trees are everywhere (fittingly, the location for the town’s Sheriff’s station was originally a Lumberjacks’ office).8 Even more than the mountains which lend Twin Peaks its name, but which barely rate a mention in the series, trees are inextricably intertwined with the show’s identity and symbolism.
-
-This is in part because trees are such apt markers of a duality that haunts Twin Peaks.9 Throughout the series we encounter deranged doppelgangers of beloved characters, maps that are clocks, owls that host spirits and dreams that solve murders. We see bikers as beatniks and jocks as drug dealers. Even the mismatched blue and red lenses in the glasses of batty psychiatrist Dr Jacoby are a carefully considered nod to this theme.10
+abstract: At 8:30am on October 3rd 2014, Twin Peaks co-creators David Lynch and Mark Frost simultaneously tweeted “That gum you like is going to come back in style!” While gibberish to the uninitiated, fans of the series immediately knew what it signalled: Laura Palmer’s promise to see us again in twenty-five years would be made good. Sure enough, soon after this typically cryptic heads-up US cable channel Showtime announced that nine new episodes of one of television’s most iconic shows will air in 2016, each written by Lynch/Frost, directed by Lynch, and shot on 35-mm celluloid.4 Little more has been revealed about the forthcoming third series other than Frost’s assurances that the plot will tell the “next chapter” of theTwin Peaks story, that it will be set in the present day, and most recently that Kyle MacLachlan will return to play Special Agent Dale Cooper.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Never before, in the history of television, had a program inspired so many millions of people to debate and analyze it deeply and excitedly for so prolonged a period … Twin Peaks generated the kinds of annotated scrutiny usually associated with scholarly journals and literary monographs ….
 
 tags:
 - Source Themes
@@ -45,7 +41,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Paul Willoughby**](http://www.paulwilloughby.com/twin-peaks)'
   focal_point: ""
   preview_only: false
 
