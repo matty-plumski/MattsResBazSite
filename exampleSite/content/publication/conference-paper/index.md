@@ -1,8 +1,7 @@
 ---
-title: "An example conference paper"
+title: "Running Rāpoi: Rebooting Research Computing at VUW"
 authors:
 - admin
-- Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -43,7 +42,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Paul Willoughby**](http://www.paulwilloughby.com/twin-peaks)'
   focal_point: ""
   preview_only: false
 
