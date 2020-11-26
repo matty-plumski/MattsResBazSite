@@ -97,9 +97,7 @@ address = {street = "10 Wai-te-ata Raod", city = "Wellington", region = "Welling
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-41.288779760001134", longitude = "174.76883846863163"}
-
-
+coordinates = {latitude = "-41.28974034968893", longitude = "174.7692153537701"}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.

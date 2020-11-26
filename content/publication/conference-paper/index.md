@@ -1,8 +1,7 @@
 ---
-title: "An example conference paper"
+title: "Out of the woods: the return of Twin Peaks"
 authors:
 - admin
-- Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -16,11 +15,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Source Themes Publications*
+publication_short: In *STP*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: At 8:30am on October 3rd 2014, Twin Peaks co-creators David Lynch and Mark Frost simultaneously tweeted “That gum you like is going to come back in style!” While gibberish to the uninitiated, fans of the series immediately knew what it signalled: Laura Palmer’s promise to see us again in twenty-five years would be made good. Sure enough, soon after this typically cryptic heads-up US cable channel Showtime announced that nine new episodes of one of television’s most iconic shows will air in 2016, each written by Lynch/Frost, directed by Lynch, and shot on 35-mm celluloid.4 Little more has been revealed about the forthcoming third series other than Frost’s assurances that the plot will tell the “next chapter” of theTwin Peaks story, that it will be set in the present day, and most recently that Kyle MacLachlan will return to play Special Agent Dale Cooper.5 A quote from Showtime’s press release, however, seemingly confirms what many Peakies would’ve already suspected: trees will continue to play a central role in the show’s narrative and mythology. Lynch and Frost’s final sentiment? “The mysterious and special world of Twin Peaks is pulling us back. We’re very excited. May the forest be with you.”6
 
+The pun may be a bit laboured, but it does more than just remind hardcore fans that Lynch was once asked to direct Star Wars VI: Return of the Jedi; it also highlights the prominent, mysterious, and apparently magnetic role trees play in Twin Peaks.7 From the Log Lady to the Bookhouse Boys (whose sigil consists of a sword superimposed over a pine); from the timber-dominated interiors to the frequent shots of wind blowing through Ghostwood National Forest, trees are everywhere (fittingly, the location for the town’s Sheriff’s station was originally a Lumberjacks’ office).8 Even more than the mountains which lend Twin Peaks its name, but which barely rate a mention in the series, trees are inextricably intertwined with the show’s identity and symbolism.
+
+This is in part because trees are such apt markers of a duality that haunts Twin Peaks.9 Throughout the series we encounter deranged doppelgangers of beloved characters, maps that are clocks, owls that host spirits and dreams that solve murders. We see bikers as beatniks and jocks as drug dealers. Even the mismatched blue and red lenses in the glasses of batty psychiatrist Dr Jacoby are a carefully considered nod to this theme.10
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -30,8 +32,8 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+  url: https://enjoy.org.nz/publishing/the-occasional-journal/the-dendromaniac/out-of-the-woods-the-return-of-twin-peaks#article
+#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -53,7 +55,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- 
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -73,3 +75,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
+\lim_{h\to 0}\frac{f(x+h)-f(x)}{h}
