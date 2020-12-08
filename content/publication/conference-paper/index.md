@@ -131,7 +131,7 @@ The pun may be a bit laboured, but it does more than just remind hardcore fans t
 
 This is in part because trees are such apt markers of a duality that haunts Twin Peaks.[9](#ftn-9) Throughout the series we encounter deranged doppelgangers of beloved characters, maps that are clocks, owls that host spirits and dreams that solve murders. We see bikers as beatniks and jocks as drug dealers. Even the mismatched blue and red lenses in the glasses of batty psychiatrist Dr Jacoby are a carefully considered nod to this theme.[10](#ftn-10)
 
-![Sam Howzit, 60 Days, http://bit.ly/1ADKME7, 2014. CC BY 2.0 https://creativecommons.org/licenses/by/2.0/](/media/cache/2d/16/2d168225e96f3ab44b0b913c6ac12930.jpg)
+![Sam Howzit, 60 Days, http://bit.ly/1ADKME7, 2014. CC BY 2.0 https://creativecommons.org/licenses/by/2.0/](https://enjoy.org.nz/media/cache/2d/16/2d168225e96f3ab44b0b913c6ac12930.jpg)
 
 Sam Howzit, _60 Days_, http://bit.ly/1ADKME7, 2014. CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
 
@@ -215,7 +215,7 @@ Matt Plummer and Alice Tappenden are Wellington-based writers. They both hold MA
     
     “Twin Peaks to return to TV in 2016” [http://www.rollingstone.com/tv/news/twin-peaks-to-return-to-tv-in-2016-20141006](http://www.rollingstone.com/tv/news/twin-peaks-to-return-to-tv-in-2016-20141006) (accessed February 15, 2015).
     
-[6.](#ftn-link-6) It’s also worth pointing out that the much anticipated opening episode of the show’s second season was titled “May the giant be with you.”  
+<a name="ftn-6"><sup>6</sup></a> It’s also worth pointing out that the much anticipated opening episode of the show’s second season was titled “May the giant be with you.”  
     
 *   [7.](#ftn-link-7)
     
