@@ -215,7 +215,7 @@ Matt Plummer and Alice Tappenden are Wellington-based writers. They both hold MA
     
     “Twin Peaks to return to TV in 2016” [http://www.rollingstone.com/tv/news/twin-peaks-to-return-to-tv-in-2016-20141006](http://www.rollingstone.com/tv/news/twin-peaks-to-return-to-tv-in-2016-20141006) (accessed February 15, 2015).
     
-<a name="ftn-6"><sup>6</sup></a> It’s also worth pointing out that the much anticipated opening episode of the show’s second season was titled “May the giant be with you.”  
+<a name="ftn-6"><sup><a href="#ftn-6">6</sup></a></a> It’s also worth pointing out that the much anticipated opening episode of the show’s second season was titled “May the giant be with you.”  
     
 *   [7.](#ftn-link-7)
     
