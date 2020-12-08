@@ -12,7 +12,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Source Themes Publications*
@@ -125,7 +125,7 @@ This article contains spoilers (but you won’t find out who killed Laura Palmer
 
 [](https://youtu.be/ijGyHv4WkDs)
 
-At 8:30am on October 3rd 2014, Twin Peaks co-creators David Lynch and Mark Frost simultaneously tweeted “That gum you like is going to come back in style!” While gibberish to the uninitiated, fans of the series immediately knew what it signalled: Laura Palmer’s promise to see us again in twenty-five years would be made good. Sure enough, soon after this typically cryptic heads-up US cable channel Showtime announced that nine new episodes of one of television’s most iconic shows will air in 2016, each written by Lynch/Frost, directed by Lynch, and shot on 35-mm celluloid.[4](#ftn-4) Little more has been revealed about the forthcoming third series other than Frost’s assurances that the plot will tell the “next chapter” of theTwin Peaks story, that it will be set in the present day, and most recently that Kyle MacLachlan will return to play Special Agent Dale Cooper.[5](#ftn-5) A quote from Showtime’s press release, however, seemingly confirms what many Peakies would’ve already suspected: trees will continue to play a central role in the show’s narrative and mythology. Lynch and Frost’s final sentiment? “The mysterious and special world of Twin Peaks is pulling us back. We’re very excited. May the forest be with you.”[6](#ftn-6)
+At 8:30am on October 3rd 2014, Twin Peaks co-creators David Lynch and Mark Frost simultaneously tweeted “That gum you like is going to come back in style!” While gibberish to the uninitiated, fans of the series immediately knew what it signalled: Laura Palmer’s promise to see us again in twenty-five years would be made good. Sure enough, soon after this typically cryptic heads-up US cable channel Showtime announced that nine new episodes of one of television’s most iconic shows will air in 2016, each written by Lynch/Frost, directed by Lynch, and shot on 35-mm celluloid.[4](#ftn-4) Little more has been revealed about the forthcoming third series other than Frost’s assurances that the plot will tell the “next chapter” of theTwin Peaks story, that it will be set in the present day, and most recently that Kyle MacLachlan will return to play Special Agent Dale Cooper.[5](#ftn-5) A quote from Showtime’s press release, however, seemingly confirms what many Peakies would’ve already suspected: trees will continue to play a central role in the show’s narrative and mythology. Lynch and Frost’s final sentiment? “The mysterious and special world of Twin Peaks is pulling us back. We’re very excited. May the forest be with you.”<sup>[6]</sup>(#ftn-6)
 
 The pun may be a bit laboured, but it does more than just remind hardcore fans that Lynch was once asked to direct Star Wars VI: Return of the Jedi; it also highlights the prominent, mysterious, and apparently magnetic role trees play in Twin Peaks.[7](#ftn-7) From the Log Lady to the Bookhouse Boys (whose sigil consists of a sword superimposed over a pine); from the timber-dominated interiors to the frequent shots of wind blowing through Ghostwood National Forest, trees are everywhere (fittingly, the location for the town’s Sheriff’s station was originally a Lumberjacks’ office).[8](#ftn-8) Even more than the mountains which lend Twin Peaks its name, but which barely rate a mention in the series, trees are inextricably intertwined with the show’s identity and symbolism.
 
@@ -195,27 +195,27 @@ Juxtaposing the familiar with the strange, Lynch and Frost have in _Twin Peaks_
 
 Matt Plummer and Alice Tappenden are Wellington-based writers. They both hold MAs in Art History from Victoria University of Wellington and have written about New Zealand art in a range of contexts. Alice is Deputy Chairperson of the Enjoy Trust.
 
-*   [1.](#ftn-link-1)
+[1.](#ftn-link-1)
     
     David Lynch and Chris Rodley, “Suddenly My House Became a Tree of Sores”, in _Lynch on Lynch_ revised edition, edited by Chris Rodley (New York, Faber and Faber, 2005), 162_Twin Peaks_. Episode 3/Rest in Pain, first broadcast 26 April 1990 by ABC. Directed by Tina Rathborne and written by Harley Peyton. 
     
-*   [2.](#ftn-link-2)
+[2.](#ftn-link-2)
     
     Jennifer Lynch, _The Secret Diary of Laura Palmer_ (New York: Simon and Schuster, Inc., 1990), 47. 
     
-*   [3.](#ftn-link-3)
+[3.](#ftn-link-3)
     
     “Twin Peaks Revival to Air on Showtime in 2016” [http://variety.com/2014/tv/news/twin-peaks-revival-to-air-on-showtime-in-2016-1201322329](http://variety.com/2014/tv/news/twin-peaks-revival-to-air-on-showtime-in-2016-1201322329) (accessed February 15, 2015). Filling in the gaps between will be a Frost-penned novel, _The Secret Lives of Twin Peaks_, due late in 2015. [http://welcometotwinpeaks.com/news/the-secret-lives-of-twin-peaks-novel-mark-frost/](http://welcometotwinpeaks.com/news/the-secret-lives-of-twin-peaks-novel-mark-frost/) (accessed February 16, 2015). 
     
-*   [4.](#ftn-link-4)
+[4.](#ftn-link-4)
     
     “Kyle McLachlan returns to Twin Peaks as FBI Agent Dale Cooper” [http://www.theguardian.com/tv-and-radio/2015/jan/13/kyle-maclachlan-returns-to-twin-peaks-as-fbi-agent-dale-cooper](http://www.theguardian.com/tv-and-radio/2015/jan/13/kyle-maclachlan-returns-to-twin-peaks-as-fbi-agent-dale-cooper) (accessed February 16, 2015). 
     
-*   [5.](#ftn-link-5)
+[5.](#ftn-link-5)
     
     “Twin Peaks to return to TV in 2016” [http://www.rollingstone.com/tv/news/twin-peaks-to-return-to-tv-in-2016-20141006](http://www.rollingstone.com/tv/news/twin-peaks-to-return-to-tv-in-2016-20141006) (accessed February 15, 2015).
     
-*   [6.](#ftn-link-6)
+[6.](#ftn-link-6)
     
     It’s also worth pointing out that the much anticipated opening episode of the show’s second season was titled “May the giant be with you.”  
     
