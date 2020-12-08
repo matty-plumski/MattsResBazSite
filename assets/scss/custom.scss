@@ -1,6 +1,11 @@
 h1, h2, h3, h4 {
     text-transform: uppercase;
 }
+
+h3 {
+  font-weight: 400;
+}
+
 .dropdown-menu,
 nav#navbar-main li.nav-item {
   font-size: 1.2rem;
@@ -16,6 +21,6 @@ nav#navbar-main li.nav-item {
   font-weight: 400;
 }
 
-footer .powered-by {
+.powered-by {
   display: none;
 }
