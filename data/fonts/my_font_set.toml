@@ -3,10 +3,10 @@
 name = "My Font Set"
 
 # Optional Google font URL
-google_fonts = "Alatsi|Roboto:400,400italic,700|Roboto+Mono"
+google_fonts = "Palanquin Dark: 400,500|Alatsi|Roboto:400,400italic,700|Roboto+Mono"
 
 # Font families
-heading_font = "Alatsi"
+heading_font = "Palanquin Dark"
 body_font = "Roboto"
-nav_font = "Alatsi"
+nav_font = "Palanquin Dark"
 mono_font = "Roboto Mono"
