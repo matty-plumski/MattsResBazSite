@@ -10,8 +10,12 @@ nav#navbar-main li.nav-item {
     font-size: 1.6rem;
 }
 
-.card-title, card-subtitle {
+.card-title {
   font-size: 1rem;
   text-transform: uppercase;
   font-weight: 400;
+}
+
+footer .powered-by {
+  display: none;
 }
