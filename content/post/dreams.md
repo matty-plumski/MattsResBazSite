@@ -1,6 +1,6 @@
 ---
 title: DREAMS
-summary: 
+summary: Second article written for Salient column, Digitales
 date: "2018-06-28T00:00:00Z"
 
 reading_time: true  #?
@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "Step ladder leading to clouds by Zamurovic Brothers from Noun Project"
-  image: "step_ladder"
+  image: "step_ladder.jpg"
 ---
 As I write this I’m sitting in a refurbished cottage in rural Wairarapa. For a secluded getaway spot it’s idyllic: tree-lined valley, rolling hills, friendly farm animals. The perfect place to get a bit of writing done, right? However there’s a catch — no 4G, no 3G, in fact no G of any kind; there’s MySky, but no internet. How the heck am I supposed to research and write a tech column?
  
