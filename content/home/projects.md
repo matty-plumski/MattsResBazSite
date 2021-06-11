@@ -34,7 +34,7 @@ subtitle = ""
     tag = "open source"
   
   [[content.filter_button]]
-    name = "Other"
+    name = "Training"
     tag = "Demo"
 
 [design]
