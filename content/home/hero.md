@@ -55,4 +55,4 @@ weight = 10  # Order that this section will appear.
 
 
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules">Image: Bogdan Dreava</a></script></span>
+<span style="text-shadow: none;"><a href="https://thenounproject.com/bdreava/">Image: Bogdan Dreava</a></script></span>
