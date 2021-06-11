@@ -13,7 +13,7 @@ header:
   caption: 
   image:
 ---
-
+{{< mermaid >}}
 erDiagram
     RAAPOI-MASTER }|..|{ QUICKTEST : CODE_TESTING_JOBS
     QUICKTEST{
@@ -92,3 +92,5 @@ erDiagram
     DCHP_Notes staticBasedOnMACAddress
     Location VLAN_1901
     }
+
+    {{< /mermaid >}}
