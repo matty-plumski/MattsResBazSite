@@ -34,3 +34,8 @@ div[class^="ftn-"], div[class*=" #ftn-"] {
 .navbar {
   background: #757575;
 }
+
+.navbar .navbar-nav .nav-link.active {
+  font-weight: 700!important;
+  color: #e3e5e8!important;
+}
