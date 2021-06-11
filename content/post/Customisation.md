@@ -3,15 +3,15 @@ title: WEBSITE TRAINING
 summary: Second article written for Salient column, Digitales
 date: "2018-06-28T00:00:00Z"
 
-reading_time: true  #?
+reading_time: false  #?
 share: true  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Step ladder leading to clouds by Zamurovic Brothers from Noun Project"
-  image: "step_ladder.jpg"
+  caption: 
+  image: 
 ---
 
 Search
