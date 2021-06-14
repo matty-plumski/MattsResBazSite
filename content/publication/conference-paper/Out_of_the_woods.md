@@ -61,10 +61,6 @@ projects:
 slides: example
 ---
 
-
-Out of the Woods: The Return of Twin Peaks
-==========================================
-
 ##### Alice Tappenden, Matt Plummer
 
 This article contains spoilers (but you won’t find out who killed Laura Palmer from us).
