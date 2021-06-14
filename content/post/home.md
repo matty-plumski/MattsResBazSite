@@ -10,8 +10,8 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Step ladder leading to clouds by Zamurovic Brothers from Noun Project"
-  image: "step_ladder.jpg"
+  caption: "Image by <a href="https://pixabay.com/users/piviso-4138688/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2650359">piviso</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2650359">Pixabay</a>"
+  image: "tent.jpg"
   view: 2
 ---
 
