@@ -7,11 +7,6 @@ reading_time: false  #?
 share: true  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: "Step ladder leading to clouds by Zamurovic Brothers from Noun Project"
-  image: "step_ladder.jpg"
 ---
 
 [Blogdown](https://evamaerey.github.io/what_how_guides/academic_website_w_blogdown)
