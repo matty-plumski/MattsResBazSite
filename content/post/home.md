@@ -8,8 +8,6 @@ share: true  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
 
-{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}
-
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "Image by piviso"
