@@ -1,4 +1,3 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/blog/introducing-wowchemy/featured_hu13e555dcc18f35b33653bfaf98048710_545608_720x0_resize_lanczos_2.png" alt="Wowchemy Website Builder"></a></p>
 
 # Academic Template for [Hugo](https://github.com/gohugoio/hugo)
 
