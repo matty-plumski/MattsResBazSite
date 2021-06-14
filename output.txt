@@ -1,0 +1,337 @@
+Academic Template Directory Stuc
+
++---assets
+|   +---scss
+|   |       custom.scss
+|   |       
+|   \---images
+|       |   .gitkeep
+|       |   icon.png
+|       |   
+|       \---icon-pack
+|               .gitkeep
+|               
++---content
+|   |   privacy.md
+|   |   terms.md
+|   |   
+|   +---teaching
+|   |       data_carpentry.md
+|   |       index.md
+|   |       academic_websites.md
+|   |       
+|   +---home
+|   |       skills.md
+|   |       posts.md
+|   |       tags.md
+|   |       about.md
+|   |       publications.md
+|   |       accomplishments.md
+|   |       talks.md
+|   |       hero.md
+|   |       featured.md
+|   |       index.md
+|   |       projects.md
+|   |       contact.md
+|   |       
+|   +---post
+|   |   |   mermaid_test.md
+|   |   |   home.md
+|   |   |   dreams.md
+|   |   |   Customisation.md
+|   |   |   _index.md
+|   |   |   
+|   |   \---interview
+|   |           featured.JPG
+|   |           index.md
+|   |           
+|   +---publication
+|   |   |   _index.md
+|   |   |   
+|   |   \---conference-paper
+|   |           cite.bib
+|   |           featured.png
+|   |           Out_of_the_woods.md
+|   |           
+|   +---project
+|   |   +---knight-lab
+|   |   |       index.md
+|   |   |       featured.png
+|   |   |       kudosTweet.jpg
+|   |   |       
+|   |   +---hiko
+|   |   |       featured.jpg
+|   |   |       index.md
+|   |   |       
+|   |   +---colliding-worlds
+|   |   |       index.md
+|   |   |       featured.png
+|   |   |       
+|   |   +---kauri-kura
+|   |   |       featured.jpg
+|   |   |       index.md
+|   |   |       
+|   |   +---resbaz
+|   |   |       index.md
+|   |   |       featured.png
+|   |   |       
+|   |   \---digitales
+|   |           index.md
+|   |           featured.png
+|   |           
+|   +---authors
+|   |   \---admin
+|   |           _index.md
+|   |           avatar.jpg
+|   |           
+|   \---talk
+|           _index.md
+|           
++---exampleSite
+|   |   go.sum
+|   |   go.mod
+|   |   
+|   +---assets
+|   |   \---images
+|   |       \---icon-pack
+|   |               .gitkeep
+|   |               
+|   +---content
+|   |   |   privacy.md
+|   |   |   terms.md
+|   |   |   
+|   |   +---home
+|   |   |   \---gallery
+|   |   |       |   index.md
+|   |   |       |   
+|   |   |       \---gallery
+|   |   |               theme-1950s.png
+|   |   |               theme-forest.png
+|   |   |               theme-default.png
+|   |   |               theme-strawberry.png
+|   |   |               theme-dark.png
+|   |   |               theme-apogee.png
+|   |   |               theme-ocean.png
+|   |   |               theme-coffee-playfair.png
+|   |   |               
+|   |   +---post
+|   |   |   |   _index.md
+|   |   |   |   
+|   |   |   +---writing-technical-content
+|   |   |   |       line-chart.json
+|   |   |   |       featured.jpg
+|   |   |   |       index.md
+|   |   |   |       
+|   |   |   +---jupyter
+|   |   |   |       index.ipynb
+|   |   |   |       index_1_0.png
+|   |   |   |       index.md
+|   |   |   |       featured.png
+|   |   |   |       
+|   |   |   \---getting-started
+|   |   |           featured.jpg
+|   |   |           index.md
+|   |   |           
+|   |   +---publication
+|   |   |   |   _index.md
+|   |   |   |   
+|   |   |   +---journal-article
+|   |   |   |       cite.bib
+|   |   |   |       featured.jpg
+|   |   |   |       index.md
+|   |   |   |       
+|   |   |   +---preprint
+|   |   |   |       featured.jpg
+|   |   |   |       index.md
+|   |   |   |       
+|   |   |   \---conference-paper
+|   |   |           cite.bib
+|   |   |           index.md
+|   |   |           featured.png
+|   |   |           
+|   |   +---courses
+|   |   |   |   _index.md
+|   |   |   |   
+|   |   |   \---example
+|   |   |           example1.md
+|   |   |           example2.md
+|   |   |           _index.md
+|   |   |           
+|   |   +---authors
+|   |   |   +---admin
+|   |   |   |       _index.md
+|   |   |   |       avatar.jpg
+|   |   |   |       
+|   |   |   \---???
+|   |   |           _index.md
+|   |   |           avatar.jpg
+|   |   |           
+|   |   +---slides
+|   |   |   \---example
+|   |   |           index.md
+|   |   |           
+|   |   \---talk
+|   |       |   _index.md
+|   |       |   
+|   |       \---example
+|   |               featured.jpg
+|   |               index.md
+|   |               
+|   +---config
+|   |   \---_default
+|   |           languages.toml
+|   |           config.toml
+|   |           menus.toml
+|   |           params.toml
+|   |           
+|   +---static
+|   |   +---admin
+|   |   |       config.yml
+|   |   |       index.html
+|   |   |       
+|   |   \---media
+|   |       |   hero-academic.png
+|   |       |   boards.jpg
+|   |       |   demo_resume.pdf
+|   |       |   
+|   |       \---headers
+|   |               bubbles-wide.jpg
+|   |               
+|   \---resources
+|       \---_gen
+|           +---assets
+|           |   \---scss
+|           |       \---scss
+|           |               main.scss_8eb176101042023239427cc6e6903092.json
+|           |               main.scss_8eb176101042023239427cc6e6903092.content
+|           |               
+|           \---images
+|               +---home
+|               |   \---gallery
+|               |       \---gallery
+|               |               theme-strawberry_hu36b0b347fcca08bd39e2df22dcedbdfb_39532_0x190_resize_lanczos_2.png
+|               |               theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png
+|               |               theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png
+|               |               theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png
+|               |               theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png
+|               |               theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png
+|               |               theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png
+|               |               theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png
+|               |               
+|               +---post
+|               |   +---writing-technical-content
+|               |   |       featured_huc72159e0fc0d14b85f60d34436a630f0_266353_150x0_resize_q1_lanczos.jpg
+|               |   |       featured_huc72159e0fc0d14b85f60d34436a630f0_266353_2560x2560_fit_q90_lanczos.jpg
+|               |   |       featured_huc72159e0fc0d14b85f60d34436a630f0_266353_150x0_resize_q90_lanczos.jpg
+|               |   |       featured_huc72159e0fc0d14b85f60d34436a630f0_266353_993663fd41a0e79bb337cf0d4669c742.jpg
+|               |   |       
+|               |   +---jupyter
+|               |   |       featured_hub1daa031c2af6888ff37bd93eb033a1a_71549_150x0_resize_lanczos_2.png
+|               |   |       featured_hub1daa031c2af6888ff37bd93eb033a1a_71549_720x0_resize_lanczos_2.png
+|               |   |       featured_hub1daa031c2af6888ff37bd93eb033a1a_71549_fc3a843443169e04e986a89c27e047fc.png
+|               |   |       featured_hub1daa031c2af6888ff37bd93eb033a1a_71549_150x0_resize_q1_lanczos_2.png
+|               |   |       
+|               |   \---getting-started
+|               |           featured_hub9ee31969f44a6711206a2baf9f065b4_241861_1200x0_resize_q90_lanczos.jpg
+|               |           featured_hub9ee31969f44a6711206a2baf9f065b4_241861_3bee33df93b424c927cae4eb977477e9.jpg
+|               |           featured_hub9ee31969f44a6711206a2baf9f065b4_241861_150x0_resize_q1_lanczos.jpg
+|               |           featured_hub9ee31969f44a6711206a2baf9f065b4_241861_150x0_resize_q90_lanczos.jpg
+|               |           
+|               +---publication
+|               |   +---journal-article
+|               |   |       featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_150x0_resize_q90_lanczos.jpg
+|               |   |       featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_720x0_resize_q90_lanczos.jpg
+|               |   |       featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_1043ee456cf37d195fa0eb7af2d0e0cb.jpg
+|               |   |       featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_214168_150x0_resize_q1_lanczos.jpg
+|               |   |       
+|               |   +---preprint
+|               |   |       featured_hu559a5add5185b02575aa8333502ab2cc_220813_150x0_resize_q1_lanczos.jpg
+|               |   |       featured_hu559a5add5185b02575aa8333502ab2cc_220813_720x0_resize_q90_lanczos.jpg
+|               |   |       featured_hu559a5add5185b02575aa8333502ab2cc_220813_150x0_resize_q90_lanczos.jpg
+|               |   |       featured_hu559a5add5185b02575aa8333502ab2cc_220813_9fecb64d5d1b0a1b979c2ef7e6b6f946.jpg
+|               |   |       
+|               |   \---conference-paper
+|               |           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_150x0_resize_q90_lanczos.jpg
+|               |           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_808x455_fill_q90_lanczos_smart1.jpg
+|               |           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_720x0_resize_q90_lanczos.jpg
+|               |           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_808x455_fill_q1_lanczos_smart1.jpg
+|               |           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_150x0_resize_q1_lanczos.jpg
+|               |           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_9357d905b3024cabe8328c8afa85b5d0.jpg
+|               |           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_312700_e8aea9fc0259e0b1ed09f79e1c6ef7ed.jpg
+|               |           
+|               +---project
+|               |   +---internal-project
+|               |   |       featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_8b75a9bee711d28a20738224a15f44dc.jpg
+|               |   |       featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_550x0_resize_q1_lanczos.jpg
+|               |   |       featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_550x0_resize_q90_lanczos.jpg
+|               |   |       featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_720x0_resize_q90_lanczos.jpg
+|               |   |       
+|               |   \---external-project
+|               |           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_720x0_resize_q90_lanczos.jpg
+|               |           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_550x0_resize_q90_lanczos.jpg
+|               |           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_550x0_resize_q1_lanczos.jpg
+|               |           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_778a4dbb5412f7d4580ef04e0b6e4f94.jpg
+|               |           
+|               +---authors
+|               |   +---admin
+|               |   |       avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg
+|               |   |       
+|               |   \---???
+|               |           avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg
+|               |           
+|               +---images
+|               |       icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png
+|               |       icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png
+|               |       icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_2.png
+|               |       
+|               \---talk
+|                   \---example
+|                           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_720x0_resize_q90_lanczos.jpg
+|                           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q1_lanczos.jpg
+|                           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_794e7248c71307072c6f00fa79fc9aa1.jpg
+|                           featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q90_lanczos.jpg
+|                           
++---scripts
+|       init_kickstart.sh
+|       
++---config
+|   \---_default
+|           languages.toml
+|           config.toml
+|           menus.toml
+|           params.toml
+|           
++---data
+|   |   page_sharer.toml
+|   |   
+|   +---themes
+|   |       .gitkeep
+|   |       custom.toml
+|   |       
+|   \---fonts
+|           my_font_set.toml
+|           .gitkeep
+|           
++---static
+|   \---media
+|           matt-plummer.jpg
+|           Laura.jpg
+|           .gitkeep
+|           twin_peaks.png
+|           step_ladder.jpg
+|           connected.png
+|           floppy.jpg
+|           DigiHist.jfif
+|           hiko_logo.png
+|           hiko_logo_2.png
+|           kauri.jpg
+|           hiko.jpg
+|           printer.png
+|           
++---.github
+|       FUNDING.yml
+|       
+\---images
+        screenshot.png
+        tn.png
+        

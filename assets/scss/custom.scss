@@ -39,3 +39,13 @@ div[class^="ftn-"], div[class*=" #ftn-"] {
   font-weight: 700!important;
   color: #e3e5e8!important;
 }
+
+.avatar-hexagon {
+-webkit-clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background: no-repeat center center; 
+}
