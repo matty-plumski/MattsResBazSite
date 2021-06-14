@@ -1,3 +1,22 @@
+---
+title: Rendering
+summary: 
+date: "2018-06-28T00:00:00Z"
+
+reading_time: false  #?
+share: true  # Show social sharing links?
+profile: true  # Show author profile?
+comments: false  # Show comments?
+diagram: true
+math: true
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: 
+  image:
+---
+
+
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
