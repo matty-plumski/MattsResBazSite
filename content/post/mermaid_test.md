@@ -32,7 +32,7 @@ classDiagram
     GitHub : collaboration tool
   
 
-   GitHub --|> Website : Netlify
+   GitHub --|> Website : Deploy(netlify.com)
 
     class Personal Computer{
     }
