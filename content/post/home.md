@@ -8,14 +8,14 @@ share: true  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
 
+{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}
+
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Image by piviso from Pixabay"
+  caption: "Image by piviso"
   image: "tent.jpg"
   view: 2
 ---
-
-#Home
 
 >Oh, a storm is threat'ning / My very life today
 >If I don't get some shelter / Oh yeah, I'm gonna fade away
