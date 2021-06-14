@@ -15,15 +15,19 @@ comments: false  # Show comments?
 
 [7 Ways You Can Further Customize the Hugo Academic Theme](https://isabella-b.com/blog/hugo-academic-customization/)
 
-[](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
-HackMD (https://hackmd.io/)
-mermaid editor 
+[How to style images with markdown](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
+
+[HackMD] (https://hackmd.io/)
+
+[Mermaid editor] (https://mermaid-js.github.io/mermaid-live-editor/)
+
 ### Design tools
 
 [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en)
 
 [Wappalyzer](https://www.wappalyzer.com/)
 
+[Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf "Link to VS Code short Cuts")
 
 ### Tips
 - ALT/CMD + TAB to switch between tabs
