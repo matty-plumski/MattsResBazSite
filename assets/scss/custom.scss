@@ -3,7 +3,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  color: white;
+  color: rgb(202, 193, 193);
   text-shadow: 2px 2px 3px #000000;
 }
 
@@ -16,6 +16,7 @@ nav#navbar-main li.nav-item {
   font-size: 1.2rem;
 }
 
+/* values for the top left site title 
 .navbar-brand {
     font-size: 1.6rem;
     font-family: Permanent Marker;
@@ -53,5 +54,6 @@ clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background: no-repeat center center; 
+  background: no-repeat center center;
+  box-shadow: 2px 2px 3px #000000; 
 }
