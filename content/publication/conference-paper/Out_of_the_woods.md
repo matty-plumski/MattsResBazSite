@@ -23,7 +23,7 @@ abstract: At 8:30am on October 3rd 2014, Twin Peaks co-creators David Lynch and 
 summary: Never before, in the history of television, had a program inspired so many millions of people to debate and analyze it deeply and excitedly for so prolonged a period … Twin Peaks generated the kinds of annotated scrutiny usually associated with scholarly journals and literary monographs ….
 
 tags:
-- Source Themes
+- "art", "media" 
 featured: true
 
 links:
