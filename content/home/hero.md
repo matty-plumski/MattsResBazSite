@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Arts meets technology"
+title = "Arts meet technology"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "hero-academic.png"
@@ -55,4 +55,4 @@ title = "Arts meets technology"
 
 
 
-<span style="text-shadow: none;"><a href="https://thenounproject.com/bdreava/">Image: Bogdan Dreava</a></script></span>
+<span style="text-shadow: none"><a href="https://thenounproject.com/bdreava/">Image: Bogdan Dreava</a></script></span>
