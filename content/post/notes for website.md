@@ -37,7 +37,7 @@ comments: false  # Show comments?
 - Check netlify.com if changes don't propagate. Look for red error messages to see where the mistake is.
 - Use inspect or view page source to see how your, or other webistes, are constructed. 
 - Copy and paste code snippets  (e.g. css values)
-- save images directly to local folders used for website. 
+- save images directly to local folders used for website. Right-click save image as, overwrite (click on existing file, e.g. featured.png), simplify name, take note of file type (jpg, png). Make sure it is compatible. file conversion tools available.
 
 ### Notes
 
