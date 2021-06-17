@@ -55,4 +55,4 @@ title = "Arts meet technology"
 
 
 
-<span style="text-shadow: none"><a href="https://thenounproject.com/bdreava/">Image: Bogdan Dreava</a></script></span>
+<span style="text-shadow: none;font-size:12px"><a href="https://thenounproject.com/bdreava/">Image: Bogdan Dreava</a></script></span>
