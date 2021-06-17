@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = "https://candidate.peoplecert.org/ReportsLink.aspx?argType=1&id=99249A6B52C538733B55291011EE824843B0D61B38559B19CC0A69AD290CDEB69298E66572424A92"
   date_start = "2015-07-03"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
 [[item]]
   organization = "CodeCademy"
