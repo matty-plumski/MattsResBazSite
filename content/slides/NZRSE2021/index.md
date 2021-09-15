@@ -230,8 +230,8 @@ Customize the slide style and background
 {{</* slide background-image="media/webcode.jpg" */>}}
 {{</* slide background-color="#0000FF" */>}}
 {{</* slide class="my-style" */>}}
+![image](media/webconcept.png)
 ```
-
 ---
 
 ## Custom CSS Example
