@@ -43,7 +43,6 @@ Matt Plummer, Victoria University of Wellington
 - Low risk, free-to-fail sandpit
 - Excellent way to teach version control - benefits and processes
 - Encourages troubleshooting - deploy logs, community fora
-- Helps build a community of practice around a common, richly-tooled ecosystem
 - Entry-level training that creates a platform for collaboration and further capability development
 - Immediacy - live site deployed and first git commit made within minutes
 
@@ -53,7 +52,13 @@ Matt Plummer, Victoria University of Wellington
 
 ---
 
-  ![image]("/media/netlify_git.png")
+{{< slide background-image="/media/netlify_git.png" >}}
+
+---
+
+---
+
+{{< slide background-image="/media/text_git_file.png" >}}
 
 ---
 

@@ -9,9 +9,9 @@
   weight = 10
 
 [[main]]
-  name = "SKILLS"
-  url = "#skills"
-  weight = 20
+  name = "TALKS"
+  url = "#talk"
+  weight = 45
 
 [[main]]
   name = "POSTS"
