@@ -29,8 +29,7 @@ Matt Plummer, Victoria University of Wellington
 - Also CSS, HTML, Shortcodes, Front Matter, Config files (yml, toml)
 
 ---
-
-![image](/media/concept_map.png)
+{{< slide background-image="/media/concept_map.png" >}}
 
 ---
 ---
