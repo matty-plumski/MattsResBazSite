@@ -19,25 +19,31 @@ slides:
 
 ### STATIC TACTICS
 #### Using static website workshops to develop capability and collaboration.
-
+#### Matt Plummer, Victoria University of Wellington
 [Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
 
 ---
 
-## Features
+## 
 
 - Efficiently write slides in Markdown
 - 3-in-1: Create, Present, and Publish your slides
 - Supports speaker notes
 - Mobile friendly slides
 
-```mermaid
+<section>
+  <section>
+  ```mermaid
 graph TD;
   A-->B;
   A-->C;
   B-->D;
   C-->D;
 ```
+</section>
+  <section>Vertical Slide 2</section>
+</section>
+
 
 ---
 
