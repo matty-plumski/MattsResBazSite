@@ -239,7 +239,7 @@ Press the `S` key to view the speaker notes!
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
+{{< slide background-image="static/media/webcode.jpg" >}}
 
 ## Custom Slide
 
