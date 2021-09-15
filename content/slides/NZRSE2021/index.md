@@ -34,7 +34,7 @@ Matt Plummer, Victoria University of Wellington
 
 ---
 
-![image](/media/compute_strategy.png)
+{{< slide background-image="/media/compute_strategy.png" >}}
 
 ---
 ### WHY?
