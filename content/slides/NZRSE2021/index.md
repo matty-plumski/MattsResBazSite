@@ -1,4 +1,8 @@
 ---
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Emblema+One&display=swap" rel="stylesheet">
+
 title: Static Tactics
 summary: Using static website workshops to develop capability and collaboration.
 authors: [admin]
@@ -11,11 +15,6 @@ slides:
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Emblema+One&display=swap" rel="stylesheet">
-
 ---
 
 ### STATIC TACTICS
@@ -31,6 +30,14 @@ slides:
 - 3-in-1: Create, Present, and Publish your slides
 - Supports speaker notes
 - Mobile friendly slides
+
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
 
 ---
 
