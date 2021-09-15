@@ -30,5 +30,5 @@ background-size: contain
   height: 100%;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: contain !important;
 }
