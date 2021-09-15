@@ -2,10 +2,10 @@
 .reveal section h2,
 .reveal section h3 {
   color: rgb(196, 196, 199);
-  font-family: "Emblema One";
+  font-family: 'Emblema One', cursive;
 }
 
 .reveal p {
   text-shadow: 2px 2px 3px #000000;
-  font-family: "Oswald";
+  font-family: Oswald;
 }
