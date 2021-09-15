@@ -15,7 +15,7 @@ slides:
 
 ### STATIC TACTICS
 #### Using static website workshops to develop capability and collaboration.
- Matt Plummer, Victoria University of Wellington
+Matt Plummer, Victoria University of Wellington
 
 
 ---
@@ -50,7 +50,7 @@ slides:
 
 <section>
 <section>
-{{< video library="true" src="Deploy_video.mp4" controls="yes" >}}
+{{< video library="true" src="/media/Deploy_video.mp4" controls="yes" >}}
 </section>
   <section><iframe width="560" height="315" src="https://www.youtube.com/embed/5vfZCbbpNus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </section>
