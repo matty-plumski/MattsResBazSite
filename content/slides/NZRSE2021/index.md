@@ -48,13 +48,7 @@ slides:
 
 <section>
 <section>
-  ```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-```
+{{< video library="true" src="Deploy_video.mp4" controls="yes" >}}
 </section>
   <section>Vertical Slide 2</section>
 </section>
