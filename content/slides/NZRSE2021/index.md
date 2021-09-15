@@ -16,16 +16,34 @@ slides:
 ### STATIC TACTICS
 #### Using static website workshops to develop capability and collaboration.
 #### Matt Plummer, Victoria University of Wellington
-[Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
+
 
 ---
 
-## 
+## WHAT?
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+- Static, git-based websites
+- Based on Hugo theme (Academic)  
+- Packaged by Wowchemy, deployed by Netlify
+- Markdown-based, support math equations, code-highlighting and diagrams
+- Also CSS, HTML, Shortcodes, Front Matter, Config files (yml, toml)
+
+
+---
+
+## WHY?
+
+- Intrinsic motivation - website design is fun
+- Immediacy - live site deployed and first git commit made within minutes
+- Low risk, sandpit
+- Excellent way to teach version control - benefits and processes
+- 
+- Overview: `Esc`
+- Speaker notes: `S`
+- Fullscreen: `F`
+- Zoom: `Alt + Click`
+- Teaches Troubleshooting
+- Helps build a community of practice around a common, richly-tooled ecosystem
 
 <section>
 <section>
@@ -40,12 +58,10 @@ graph TD;
   <section>Vertical Slide 2</section>
 </section>
 
-
 ---
 
-## Controls
+## HOW?
 
-- Next: `Right Arrow` or `Space`
 - Previous: `Left Arrow`
 - Start: `Home`
 - Finish: `End`
@@ -53,24 +69,10 @@ graph TD;
 - Speaker notes: `S`
 - Fullscreen: `F`
 - Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
-
+- Troubleshooting
 ---
 
-## Concept Map
-
-Inline code: `variable`
-
-Code block:
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
-
----
-
-## Math
+## Mat
 
 In-line math: $x + y = z$
 
