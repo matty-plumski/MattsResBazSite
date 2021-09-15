@@ -27,11 +27,10 @@ slides:
 - Packaged by Wowchemy, deployed by Netlify
 - Markdown-based, supports math equations, code-highlighting and diagrams
 - Also CSS, HTML, Shortcodes, Front Matter, Config files (yml, toml)
-<section>
-<section>
+
+---
+
 ![image](/media/concept_map.png)
-</section>
-</section>
 
 ---
 
