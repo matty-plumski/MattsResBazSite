@@ -1,8 +1,4 @@
 ---
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Emblema+One&display=swap" rel="stylesheet">
-
 title: Static Tactics
 summary: Using static website workshops to develop capability and collaboration.
 authors: [admin]
