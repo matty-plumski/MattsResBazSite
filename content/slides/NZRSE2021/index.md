@@ -22,7 +22,7 @@ slides:
 
 ## WHAT?
 
-- Static, git-based websites
+- Static, git-based websites - maintainable and version-controlled
 - Based on Hugo theme (Academic)  
 - Packaged by Wowchemy, deployed by Netlify
 - Markdown-based, support math equations, code-highlighting and diagrams
@@ -32,10 +32,9 @@ slides:
 ---
 
 ## WHY?
-
-- Intrinsic motivation - website design is fun
-- Immediacy - live site deployed and first git commit made within minutes
-- Low risk, sandpit
+<section>
+- Intrinsic motivation - website design is fun, academic portfolio site useful for research engagement. 
+- Low risk, free-to-fail sandpit
 - Excellent way to teach version control - benefits and processes
 - 
 - Overview: `Esc`
@@ -44,6 +43,8 @@ slides:
 - Zoom: `Alt + Click`
 - Teaches Troubleshooting
 - Helps build a community of practice around a common, richly-tooled ecosystem
+- Immediacy - live site deployed and first git commit made within minutes
+</section>
 
 <section>
 <section>
@@ -62,14 +63,17 @@ graph TD;
 
 ## HOW?
 
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
+- Carpentries-inspired methodology - sticky notes + formative feedback
+- Code-along approach, with clear 
+- Help - ratio of instructor to attendees, or supplemented with a helper
+- Different levels of skill and experience accommodated
+- Peer support
+- Repetition and modular, scaffolded approach 
 - Speaker notes: `S`
 - Fullscreen: `F`
 - Zoom: `Alt + Click`
-- Troubleshooting
+- Paper-based handouts of key information (concept map of components, directory structure of site, Markdown cheat sheet)
+
 ---
 
 ## Mat
@@ -96,7 +100,7 @@ Make content appear incrementally
 
 Press `Space` to play!
 
-{{% fragment %}} One {{% /fragment %}}
+
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
 
