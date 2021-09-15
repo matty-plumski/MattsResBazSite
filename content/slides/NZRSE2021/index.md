@@ -15,36 +15,29 @@ slides:
 
 ### STATIC TACTICS
 #### Using static website workshops to develop capability and collaboration.
-#### Matt Plummer, Victoria University of Wellington
+##### Matt Plummer, Victoria University of Wellington
 
 
 ---
 
 ## WHAT?
 
-- Static, git-based websites - maintainable and version-controlled
-- Based on Hugo theme (Academic)  
+- Free, static, git-based websites - maintainable and version-controlled
+- Based on open source Hugo theme (Academic)
 - Packaged by Wowchemy, deployed by Netlify
-- Markdown-based, support math equations, code-highlighting and diagrams
+- Markdown-based, supports math equations, code-highlighting and diagrams
 - Also CSS, HTML, Shortcodes, Front Matter, Config files (yml, toml)
-
 
 ---
 
 ## WHY?
-<section>
+
 - Intrinsic motivation - website design is fun, academic portfolio site useful for research engagement. 
 - Low risk, free-to-fail sandpit
 - Excellent way to teach version control - benefits and processes
-- 
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- Teaches Troubleshooting
+- Encourages troubleshooting - deploy logs, community fora
 - Helps build a community of practice around a common, richly-tooled ecosystem
 - Immediacy - live site deployed and first git commit made within minutes
-</section>
 
 <section>
 <section>
@@ -58,33 +51,31 @@ slides:
 ## HOW?
 
 - Carpentries-inspired methodology - sticky notes + formative feedback
-- Code-along approach, with clear 
+- Code-along approach, with clear explanations 
 - Help - ratio of instructor to attendees, or supplemented with a helper
 - Different levels of skill and experience accommodated
 - Peer support
 - Repetition and modular, scaffolded approach 
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
 - Paper-based handouts of key information (concept map of components, directory structure of site, Markdown cheat sheet)
 
 ---
 
-## Mat
+## FUTURE PLANS
 
-In-line math: $x + y = z$
-
-Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
+- Carpentries-inspired methodology - sticky notes + formative feedback
+- Code-along approach, with clear explanations 
+- Help - ratio of instructor to attendees, or supplemented with a helper
+- Different levels of skill and experience accommodated
+- Peer support
+- Repetition and modular, scaffolded approach 
+- Paper-based handouts of key information (concept map of components, directory structure of site, Markdown cheat sheet)
 
 ---
 
-## Fragments
+## CONTACT
 
-Make content appear incrementally
+matt.plummer@vuw.ac.nz
+
 
 ```
 {{%/* fragment */%}} One {{%/* /fragment */%}}
@@ -100,121 +91,16 @@ Press `Space` to play!
 
 ---
 
-A fragment can accept two optional parameters:
-
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
-
----
-```markdown
-classDiagram
-    GitHub --|> Personal Computer : Pull 
-    GitHub <|-- Personal Computer : Push 
-    Personal Computer <|-- GitHub Desktop
-    Personal Computer <|-- Command Line
-    GitHubDesktop <|-- TextEditor
-    Command Line <|-- TextEditor
-    GitHubDesktop <|-- File Explorer
-    Command Line <|-- File Explorer
-    
-
-    Website --|> Slides
-    Website --|> Blogs
-    Website --|> Projects
-    Website --|> CV
-    Website --|> Publications
-    GitHub : web-based
-    GitHub : version controlled
-    GitHub : collaboration tool
-  
-
-   GitHub --|> Website : Deploy(netlify.com)
-
-    class Personal Computer{
-    }
-    class Website{
-    }
-    class TextEditor{
-        Edit markdown
-    }
-    class FileExplorer{
-        Add images 
-    }
-```markdown  
-
-## Speaker Notes
-
-Add speaker notes to your presentation
-
-```markdown
-{{%/* speaker_note */%}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{< /speaker_note >}}
 
 ---
 
-## Themes
+## WORKSHOP FEEDBACK
 
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
-
----
-
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
-
----
-
----
-```mermaid
-classDiagram
-    GitHub --|> Personal Computer : Pull 
-    GitHub <|-- Personal Computer : Push 
-    Personal Computer <|-- GitHub Desktop
-    Personal Computer <|-- Command Line
-    GitHubDesktop <|-- TextEditor
-    Command Line <|-- TextEditor
-    GitHubDesktop <|-- File Explorer
-    Command Line <|-- File Explorer
-    
-
-    Website --|> Slides
-    Website --|> Blogs
-    Website --|> Projects
-    Website --|> CV
-    Website --|> Publications
-    GitHub : web-based
-    GitHub : version controlled
-    GitHub : collaboration tool
-  
-
-   GitHub --|> Website : Deploy(netlify.com)
-
-    class Personal Computer{
-    }
-    class Website{
-    }
-    class TextEditor{
-        Edit markdown
-    }
-    class FileExplorer{
-        Add images 
-    }
-```  
+> Great workshop - very interesting and easy to follow (and fun!). Found it very worthwhile
+- Perfect step-by-step instructions / learning by doing approach, really helpful
+- The session has been really informative and useful. I've learnt heaps. Can't wait for the next session. Thanks, Matt!!
+- I learned it for the first time. Thank you. It was helpful.
+- Great pace, great explanation, very well prepared. I fell empowered and really enjoyed this. Thank you!!
 ---
 
 ## Themes
