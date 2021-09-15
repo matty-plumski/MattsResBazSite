@@ -23,7 +23,7 @@ slides:
 ### WHAT?
 
 - Free, static, git-based websites - maintainable and version-controlled
-- Based on open source Hugo theme (Academic)
+- Based on open source Hugo theme (Academic), tailored for researchers
 - Packaged by Wowchemy, deployed by Netlify
 - Markdown-based, supports math equations, code-highlighting and diagrams
 - Also CSS, HTML, Shortcodes, Front Matter, Config files (yml, toml)
@@ -33,7 +33,11 @@ slides:
 ![image](/media/concept_map.png)
 
 ---
+---
 
+![image](/media/compute_strategy.png)
+
+---
 ### WHY?
 
 - Intrinsic motivation - website design is fun, academic portfolio site useful for research engagement. 
