@@ -91,6 +91,7 @@ A fragment can accept two optional parameters:
 - `weight`: sets the order in which a fragment appears
 
 ---
+```markdown
 classDiagram
     GitHub --|> Personal Computer : Pull 
     GitHub <|-- Personal Computer : Push 
@@ -124,7 +125,7 @@ classDiagram
     class FileExplorer{
         Add images 
     }
-      
+```markdown  
 
 ## Speaker Notes
 
