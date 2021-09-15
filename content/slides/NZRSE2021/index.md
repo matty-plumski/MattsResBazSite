@@ -77,11 +77,14 @@ Matt Plummer, Victoria University of Wellington
 
 - Formalise lesson template, including learning objectives 
 - Foster sustainable, ongoing community of practice
-- Help - ratio of instructor to attendees, or supplemented with a helper
-- Different levels of skill and experience accommodated
-- Develop suite of follow-up lessons (custom design with CSS, )
-- Repetition and modular, scaffolded approach 
-- Paper-based handouts of key information (concept map of components, directory structure of site, Markdown cheat sheet)
+- Offer follow along sessions:
+   - Reverting to previous git commits
+   - Collaborating with git
+   - Advanced styling with CSS
+   - More about Front Matter and Shortcodes
+   - Decoupling your site from Netlify and adding custom domain
+
+- 
 
 ---
 
