@@ -220,7 +220,7 @@ classDiagram
 
 ---
 
-{{< slide background-image="media/webcode.jpg" >}}
+{{< slide background-image="/media/webcode.jpg" >}}
 
 ## Custom Slide
 
