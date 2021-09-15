@@ -227,10 +227,10 @@ classDiagram
 Customize the slide style and background
 
 ```markdown
-{{</* slide background-image="media/webcode.jpg" */>}}
+{{</* slide background-image="/media/webcode.jpg" */>}}
 {{</* slide background-color="#0000FF" */>}}
 {{</* slide class="my-style" */>}}
-![image](media/webconcept.png)
+![image](/media/web_concept.png)
 ```
 ---
 
