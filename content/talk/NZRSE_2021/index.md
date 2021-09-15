@@ -8,12 +8,13 @@ location: Online
 summary: An example talk using Academic's Markdown slides feature.
 abstract: "There are a range of introductory workshops designed to teach digital research skills, notably those provided by the Carpentries. But although frequently pitched at novices, for some, particularly those from humanities and social science backgrounds, concepts taught in these workshops – such as version control with git – can be tricky to grasp. As a complement or precursor to Carpentries-style workshops, static website workshops in which attendees design and publish a git-based, academic portfolio website, provide an immediate, accessible and enjoyable experience. Through an incremental, scaffolded lesson structure, attendees learn about version control, git and GitHub/Lab, text editors, web protocols and styling (markdown, CSS and HTML), and configuration files (yml). 
 
+
 This paper will discuss the affordances and challenges of this approach, with feedback from attendees at four seprate workshops over the past year. It will address the differences between online and face-to-face delivery; discuss how different experience levels are catered for; outline how Carpentries strategies and pedagogy can be adopted (and departed from); and, most importantly, explain how these workshops develop capability for a wider range of academics to utilise tools such as git, and thus prime them for interdiscplinary collaboration and better utilisation of research computing resources.."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-09-16T13:00:00Z"
+date_end: "2021-09-07T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -44,7 +45,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: NZRSE2021
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
