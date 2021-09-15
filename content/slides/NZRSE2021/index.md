@@ -201,25 +201,6 @@ classDiagram
         Add images 
     }
 ```  
-
-## Speaker Notes
-
-Add speaker notes to your presentation
-
-```markdown
-{{%/* speaker_note */%}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{< /speaker_note >}}
-
 ---
 
 ## Themes
@@ -239,14 +220,14 @@ Press the `S` key to view the speaker notes!
 
 ---
 
-{{< slide background-image="static/media/webcode.jpg" >}}
+{{< slide background-image="media/webcode.jpg" >}}
 
 ## Custom Slide
 
 Customize the slide style and background
 
 ```markdown
-{{</* slide background-image="static/media/webcode.jpg" */>}}
+{{</* slide background-image="media/webcode.jpg" */>}}
 {{</* slide background-color="#0000FF" */>}}
 {{</* slide class="my-style" */>}}
 ```

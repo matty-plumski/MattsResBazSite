@@ -5,7 +5,7 @@ event_url: https://www.rseconference.nz/
 
 location: Online
 
-summary: An example talk using Academic's Markdown slides feature.
+summary: Using static website workshops to develop capability and collaboration.
 abstract: "There are a range of introductory workshops designed to teach digital research skills, notably those provided by the Carpentries. But although frequently pitched at novices, for some, particularly those from humanities and social science backgrounds, concepts taught in these workshops – such as version control with git – can be tricky to grasp. As a complement or precursor to Carpentries-style workshops, static website workshops in which attendees design and publish a git-based, academic portfolio website, provide an immediate, accessible and enjoyable experience. Through an incremental, scaffolded lesson structure, attendees learn about version control, git and GitHub/Lab, text editors, web protocols and styling (markdown, CSS and HTML), and configuration files (yml). 
 
 
