@@ -13,7 +13,8 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Academic
+### STATIC TACTICS
+#### Using static website workshops to develop capability and collaboration.
 
 [Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
 
