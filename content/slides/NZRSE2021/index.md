@@ -28,7 +28,7 @@ slides:
 - Mobile friendly slides
 
 <section>
-
+<section>
   ```mermaid
 graph TD;
   A-->B;
