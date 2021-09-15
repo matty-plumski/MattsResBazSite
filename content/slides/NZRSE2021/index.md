@@ -46,12 +46,15 @@ Matt Plummer, Victoria University of Wellington
 - Helps build a community of practice around a common, richly-tooled ecosystem
 - Entry-level training that creates a platform for collaboration and further capability development
 - Immediacy - live site deployed and first git commit made within minutes
+
 ---
 
 {{< video library="true" src="/media/Deploy_video.mp4" controls="yes" >}}
 
 ---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5vfZCbbpNus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 
   ![image](/media/netlify_git.png)
@@ -88,7 +91,6 @@ matt.plummer@vuw.ac.nz
 
 
 
----
 
-# Questions?
+
 
