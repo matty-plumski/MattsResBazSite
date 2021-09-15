@@ -49,11 +49,11 @@ Matt Plummer, Victoria University of Wellington
 
 ---
 
-<iframe width="1366" height="768" src="https://www.youtube.com/embed/5vfZCbbpNus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="853" height="505" src="https://www.youtube.com/embed/5vfZCbbpNus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-  ![image](/media/netlify_git.png)
+  ![image]("/media/netlify_git.png")
 
 ---
 
