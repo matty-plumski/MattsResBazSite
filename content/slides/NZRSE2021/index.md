@@ -165,6 +165,80 @@ Press the `S` key to view the speaker notes!
 
 ---
 
+---
+```mermaid
+classDiagram
+    GitHub --|> Personal Computer : Pull 
+    GitHub <|-- Personal Computer : Push 
+    Personal Computer <|-- GitHub Desktop
+    Personal Computer <|-- Command Line
+    GitHubDesktop <|-- TextEditor
+    Command Line <|-- TextEditor
+    GitHubDesktop <|-- File Explorer
+    Command Line <|-- File Explorer
+    
+
+    Website --|> Slides
+    Website --|> Blogs
+    Website --|> Projects
+    Website --|> CV
+    Website --|> Publications
+    GitHub : web-based
+    GitHub : version controlled
+    GitHub : collaboration tool
+  
+
+   GitHub --|> Website : Deploy(netlify.com)
+
+    class Personal Computer{
+    }
+    class Website{
+    }
+    class TextEditor{
+        Edit markdown
+    }
+    class FileExplorer{
+        Add images 
+    }
+```mermaid  
+
+## Speaker Notes
+
+Add speaker notes to your presentation
+
+```markdown
+{{%/* speaker_note */%}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{%/* /speaker_note */%}}
+```
+
+Press the `S` key to view the speaker notes!
+
+{{< speaker_note >}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{< /speaker_note >}}
+
+---
+
+## Themes
+
+- black: Black background, white text, blue links (default)
+- white: White background, black text, blue links
+- league: Gray background, white text, blue links
+- beige: Beige background, dark text, brown links
+- sky: Blue background, thin dark text, blue links
+
+---
+
+- night: Black background, thick white text, orange links
+- serif: Cappuccino background, gray text, brown links
+- simple: White background, black text, blue links
+- solarized: Cream-colored background, dark green text, blue links
+
+---
+
 {{< slide background-image="/media/boards.jpg" >}}
 
 ## Custom Slide
