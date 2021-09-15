@@ -232,6 +232,7 @@ Customize the slide style and background
 {{</* slide class="my-style" */>}}
 ![image](/media/web_concept.png)
 ```
+![image](/media/web_concept.png)
 ---
 
 ## Custom CSS Example
