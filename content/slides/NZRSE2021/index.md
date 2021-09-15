@@ -15,7 +15,7 @@ slides:
 
 ### STATIC TACTICS
 #### Using static website workshops to develop capability and collaboration.
-##### Matt Plummer, Victoria University of Wellington
+ Matt Plummer, Victoria University of Wellington
 
 
 ---
@@ -28,6 +28,10 @@ slides:
 - Markdown-based, supports math equations, code-highlighting and diagrams
 - Also CSS, HTML, Shortcodes, Front Matter, Config files (yml, toml)
 
+<section>
+![image](/media/concept_map.png)
+</section>
+
 ---
 
 ## WHY?
@@ -37,6 +41,7 @@ slides:
 - Excellent way to teach version control - benefits and processes
 - Encourages troubleshooting - deploy logs, community fora
 - Helps build a community of practice around a common, richly-tooled ecosystem
+- Entry-level training that creates a platform for collaboration and further capability development
 - Immediacy - live site deployed and first git commit made within minutes
 
 <section>
@@ -44,6 +49,10 @@ slides:
 {{< video library="true" src="Deploy_video.mp4" controls="yes" >}}
 </section>
   <section><iframe width="560" height="315" src="https://www.youtube.com/embed/5vfZCbbpNus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</section>
+</section>
+  <section>
+  ![image](/media/netlify_git.png)
 </section>
 </section>
 
@@ -73,7 +82,7 @@ slides:
 
 ---
 
-## CONTACT
+### CONTACT
 
 matt.plummer@vuw.ac.nz
 
@@ -95,9 +104,9 @@ Press `Space` to play!
 
 ---
 
-## WORKSHOP FEEDBACK
+### WORKSHOP FEEDBACK
 
-> Great workshop - very interesting and easy to follow (and fun!). Found it very worthwhile
+- Great workshop - very interesting and easy to follow (and fun!). Found it very worthwhile
 - Perfect step-by-step instructions / learning by doing approach, really helpful
 - The session has been really informative and useful. I've learnt heaps. Can't wait for the next session. Thanks, Matt!!
 - I learned it for the first time. Thank you. It was helpful.
