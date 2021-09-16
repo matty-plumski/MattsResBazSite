@@ -29,8 +29,14 @@ Matt Plummer, Victoria University of Wellington
 - Markdown-based, supports math equations, code-highlighting and diagrams
 - Also CSS, HTML, Shortcodes, Front Matter, Config files (yml, toml)
 
+
 ---
-{{< slide background-image="/media/concept_map.png" >}}
+
+{{< slide background-image="/media/websites.png" >}}
+
+---
+
+{{< slide background-image="/media/concept_map1.png" >}}
 
 ---
 
@@ -52,13 +58,7 @@ Matt Plummer, Victoria University of Wellington
 
 ---
 
-{{< slide background-image="/media/netlify_git.png" >}}
-
----
-
----
-
-{{< slide background-image="/media/text_git_file.png" >}}
+{{< slide background-image="/media/components.png" >}}
 
 ---
 
@@ -84,8 +84,6 @@ Matt Plummer, Victoria University of Wellington
    - Advanced styling with CSS
    - More about Front Matter and Shortcodes
    - Decoupling your site from Netlify and adding custom domain
-
-- 
 
 ---
 
