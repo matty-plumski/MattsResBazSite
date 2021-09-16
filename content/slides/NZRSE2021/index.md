@@ -12,7 +12,7 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
-{{< slide background-image="/media/websites.png" >}}
+{{< slide background-image="/media/gradient.jpg" >}}
 
 ### STATIC TACTICS
 #### Using static website workshops to develop capability and collaboration.
