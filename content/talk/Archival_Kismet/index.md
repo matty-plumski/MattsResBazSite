@@ -23,7 +23,7 @@ tags: [art history, archives,]
 # Is this a featured talk? (true/false)
 featured: true
 
-image: "elam_studio.jpg"
+image: elam_studio.jpg
   caption: Ross in his Elam studio, c. 1971
   focal_point: Center
 
