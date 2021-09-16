@@ -12,7 +12,7 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
-{{< slide background-image="/media/gradient.jpg" >}}
+{{< slide background-image="/media/websites.png" >}}
 
 ### STATIC TACTICS
 #### Using static website workshops to develop capability and collaboration.
@@ -39,10 +39,6 @@ Matt Plummer, Victoria University of Wellington
 {{< slide background-image="/media/concept_map1.png" >}}
 
 ---
-
-{{< slide background-image="/media/compute_strategy.png" >}}
-
----
 ### WHY?
 
 - Intrinsic motivation - website design is fun, academic portfolio site useful for research engagement. 
@@ -58,7 +54,7 @@ Matt Plummer, Victoria University of Wellington
 
 ---
 
-{{< slide background-image="/media/components.png" >}}
+{{< slide background-image="/media/compute_strategy.png" >}}
 
 ---
 
@@ -73,6 +69,11 @@ Matt Plummer, Victoria University of Wellington
 - Paper-based handouts of key information (concept map of components, directory structure of site, Markdown cheat sheet)
 
 ---
+
+{{< slide background-image="/media/components.png" >}}
+
+---
+
 
 ### FUTURE PLANS
 
