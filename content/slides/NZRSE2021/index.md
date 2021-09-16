@@ -27,7 +27,7 @@ Matt Plummer, Victoria University of Wellington
 - Based on open source Hugo theme (Academic), tailored for researchers
 - Packaged by Wowchemy, deployed by Netlify
 - Markdown-based, supports math equations, code-highlighting and diagrams
-- Also CSS, HTML, Shortcodes, Front Matter, Config files (yml, toml)
+- Also CSS, HTML, Shortcodes, Front Matter, config files (yml, toml)
 
 
 ---
@@ -42,7 +42,7 @@ Matt Plummer, Victoria University of Wellington
 ### WHY?
 
 - Intrinsic motivation - website design is fun, academic portfolio site useful for research engagement. 
-- Low risk, free-to-fail sandpit
+- Low risk, free-to-fail "sandpit"
 - Excellent way to teach version control - benefits and processes
 - Encourages troubleshooting - deploy logs, community fora
 - Entry-level training that creates a platform for collaboration and further capability development
@@ -78,6 +78,7 @@ Matt Plummer, Victoria University of Wellington
 ### FUTURE PLANS
 
 - Formalise lesson template, including learning objectives 
+- Collaborate with others interested in developing these lessons
 - Foster sustainable, ongoing community of practice
 - Offer follow along sessions:
    - Reverting to previous git commits
