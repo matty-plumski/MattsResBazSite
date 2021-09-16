@@ -13,12 +13,12 @@ This paper will discuss the affordances and challenges of this approach, with fe
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-09-16T13:00:00Z"
-date_end: "2021-09-06T15:00:00Z"
+date: "2021-09-16"
+date_end: "2021-09-16"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-09-06T15:00:00Z"
+publishDate: "2021-09-06"
 
 authors: [admin]
 tags: [skill development, training, ]
