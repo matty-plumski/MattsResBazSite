@@ -14,20 +14,20 @@ This paper will discuss the affordances and challenges of this approach, with fe
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-09-16T13:00:00Z"
-date_end: "2021-09-07T15:00:00Z"
+date_end: "2021-09-06T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-09-06T15:00:00Z"
 
-authors: []
-tags: []
+authors: [admin]
+tags: [skill development, training, ]
 
 # Is this a featured talk? (true/false)
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)'
+  caption: 
   focal_point: Right
 
 links:
