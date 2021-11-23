@@ -1,7 +1,7 @@
 ---
 title: OpenRefine
 summary: OpenRefine step by step tutorial with Powerhouse Museum collection data
-date: "2021-11-24T00:00:00Z"
+date: "2021-11-23T00:00:00Z"
 
 reading_time: false  #?
 share: true  # Show social sharing links?
