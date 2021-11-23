@@ -1,5 +1,5 @@
 ---
-title: OpenRefine
+title: Open Refine With [Powerhouse Museum](https://www.maas.museum/powerhouse-museum/) collection data
 summary: OpenRefine step by step tutorial with Powerhouse Museum collection data
 date: "2021-11-23T00:00:00Z"
 
@@ -15,7 +15,6 @@ header:
   image:
 ---
 
-# Open Refine With [Powerhouse Museum](https://www.maas.museum/powerhouse-museum/) collection data
 
 Based on [this video](https://)
 > Discover how to prep data for your next machine learning project using OpenRefine.
