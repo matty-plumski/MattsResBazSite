@@ -1,5 +1,5 @@
 ---
-title: Open Refine With [Powerhouse Museum](https://www.maas.museum/powerhouse-museum/) collection data
+title: Open Refine With Powerhouse Museum collection data
 summary: OpenRefine step by step tutorial with Powerhouse Museum collection data
 date: "2021-11-23T00:00:00Z"
 
@@ -16,11 +16,11 @@ header:
 ---
 
 
-Based on [this video](https://)
+Based on [this video](https://www.youtube.com/watch?v=xZlz4ISgNBc&list=PLY4wA1Tu5tIh9s9rxSkioHWGTpHdAbCO1&index=2)
 > Discover how to prep data for your next machine learning project using OpenRefine.
 
 1. Install OpenRefine and open in browser: http://127.0.0.1:3333/
-2. Create project and import data (phm-collection.tsv) - either download and upload, or add via Get Data From : Web addresses URL : https://data.freeyourmetadata.org/powerhouse-museum/phm-collection.tsv *tip go to https://data.freeyourmetadata.org/powerhouse-museum/ and right click on file phm-collection and choose **copy link address** option.
+2. Create project and import data (phm-collection.tsv) - either download and upload, or add via Get Data From : Web addresses URL : https://data.freeyourmetadata.org/powerhouse-museum/phm-collection.tsv *tip go to https://data.freeyourmetadata.org/powerhouse-museum/ and right click on file phm-collection and choose **copy link address** option.*
 3. Notice essentially dealing with a giant spreadsheet with rows and columns, each column has a menu with options for manipulating and filtering the data for that column. On the left hand side options for facet and filter - in data science, faceting allows different views of your data by breakin it up, defined by a specific characteristic - like many sides of a gem - hence the OpenRefine logo. *concept of viewing is interesting here - we have a copy of data, different views etc*
 > facet
 > /ˈfasɪt,ˈfasɛt/
