@@ -57,3 +57,9 @@ clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
   background: no-repeat center center;
   box-shadow: 2px 2px 3px #000000; 
 }
+
+.article-container {
+  max-width: 960px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
