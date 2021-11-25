@@ -125,4 +125,42 @@ erDiagram
     DCHP_Notes staticBasedOnMACAddress
     Location VLAN_1901
     }
+
+    classDiagram
+    GitHub --|> Personal Computer : Pull 
+    GitHub <|-- Personal Computer : Push 
+    Personal Computer <|-- GitHub Desktop
+    Personal Computer <|-- Command Line
+    GitHubDesktop <|-- TextEditor
+    Command Line <|-- TextEditor
+    GitHubDesktop <|-- File Explorer
+    Command Line <|-- File Explorer
+    
+
+    Website --|> Slides
+    Website --|> Blogs
+    Website --|> Projects
+    Website --|> Publications
+    GitHub : web-based
+    GitHub : version controlled
+    GitHub : collaboration tool
+  
+
+   GitHub --|> Website : Deploy(netlify.com)
+
+    class Personal Computer{
+    }
+    class Website{
+    }
+    class TextEditor{
+        Edits markdown
+    }
+    class Slides{
+        reveal.js
+    }
+
+    [![](https://mermaid.ink/img/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG4gICAgR2l0SHViIC0tfD4gUGVyc29uYWwgQ29tcHV0ZXIgOiBQdWxsIFxuICAgIEdpdEh1YiA8fC0tIFBlcnNvbmFsIENvbXB1dGVyIDogUHVzaCBcbiAgICBQZXJzb25hbCBDb21wdXRlciA8fC0tIEdpdEh1YiBEZXNrdG9wXG4gICAgUGVyc29uYWwgQ29tcHV0ZXIgPHwtLSBDb21tYW5kIExpbmVcbiAgICBHaXRIdWJEZXNrdG9wIDx8LS0gVGV4dEVkaXRvclxuICAgIENvbW1hbmQgTGluZSA8fC0tIFRleHRFZGl0b3JcbiAgICBHaXRIdWJEZXNrdG9wIDx8LS0gRmlsZSBFeHBsb3JlclxuICAgIENvbW1hbmQgTGluZSA8fC0tIEZpbGUgRXhwbG9yZXJcbiAgICBcblxuICAgIFdlYnNpdGUgLS18PiBTbGlkZXNcbiAgICBXZWJzaXRlIC0tfD4gQmxvZ3NcbiAgICBXZWJzaXRlIC0tfD4gUHJvamVjdHNcbiAgICBXZWJzaXRlIC0tfD4gUHVibGljYXRpb25zXG4gICAgR2l0SHViIDogd2ViLWJhc2VkXG4gICAgR2l0SHViIDogdmVyc2lvbiBjb250cm9sbGVkXG4gICAgR2l0SHViIDogY29sbGFib3JhdGlvbiB0b29sXG4gIFxuXG4gICBHaXRIdWIgLS18PiBXZWJzaXRlIDogRGVwbG95KG5ldGxpZnkuY29tKVxuXG4gICAgY2xhc3MgUGVyc29uYWwgQ29tcHV0ZXJ7XG4gICAgfVxuICAgIGNsYXNzIFdlYnNpdGV7XG4gICAgfVxuICAgIGNsYXNzIFRleHRFZGl0b3J7XG4gICAgICAgIEVkaXRzIG1hcmtkb3duXG4gICAgfVxuICAgIGNsYXNzIFNsaWRlc3tcbiAgICAgICAgcmV2ZWFsLmpzXG4gICAgfVxuICAgICAgIiwibWVybWFpZCI6eyJ0aGVtZSI6ImxpZ2h0In0sInVwZGF0ZUVkaXRvciI6dHJ1ZSwiYXV0b1N5bmMiOmZhbHNlLCJ1cGRhdGVEaWFncmFtIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/edit/#eyJjb2RlIjoiY2xhc3NEaWFncmFtXG4gICAgR2l0SHViIC0tfD4gUGVyc29uYWwgQ29tcHV0ZXIgOiBQdWxsIFxuICAgIEdpdEh1YiA8fC0tIFBlcnNvbmFsIENvbXB1dGVyIDogUHVzaCBcbiAgICBQZXJzb25hbCBDb21wdXRlciA8fC0tIEdpdEh1YiBEZXNrdG9wXG4gICAgUGVyc29uYWwgQ29tcHV0ZXIgPHwtLSBDb21tYW5kIExpbmVcbiAgICBHaXRIdWJEZXNrdG9wIDx8LS0gVGV4dEVkaXRvclxuICAgIENvbW1hbmQgTGluZSA8fC0tIFRleHRFZGl0b3JcbiAgICBHaXRIdWJEZXNrdG9wIDx8LS0gRmlsZSBFeHBsb3JlclxuICAgIENvbW1hbmQgTGluZSA8fC0tIEZpbGUgRXhwbG9yZXJcbiAgICBcblxuICAgIFdlYnNpdGUgLS18PiBTbGlkZXNcbiAgICBXZWJzaXRlIC0tfD4gQmxvZ3NcbiAgICBXZWJzaXRlIC0tfD4gUHJvamVjdHNcbiAgICBXZWJzaXRlIC0tfD4gUHVibGljYXRpb25zXG4gICAgR2l0SHViIDogd2ViLWJhc2VkXG4gICAgR2l0SHViIDogdmVyc2lvbiBjb250cm9sbGVkXG4gICAgR2l0SHViIDogY29sbGFib3JhdGlvbiB0b29sXG4gIFxuXG4gICBHaXRIdWIgLS18PiBXZWJzaXRlIDogRGVwbG95KG5ldGxpZnkuY29tKVxuXG4gICAgY2xhc3MgUGVyc29uYWwgQ29tcHV0ZXJ7XG4gICAgfVxuICAgIGNsYXNzIFdlYnNpdGV7XG4gICAgfVxuICAgIGNsYXNzIFRleHRFZGl0b3J7XG4gICAgICAgIEVkaXRzIG1hcmtkb3duXG4gICAgfVxuICAgIGNsYXNzIFNsaWRlc3tcbiAgICAgICAgcmV2ZWFsLmpzXG4gICAgfVxuICAgICAgIiwibWVybWFpZCI6IntcbiAgXCJ0aGVtZVwiOiBcImxpZ2h0XCJcbn0iLCJ1cGRhdGVFZGl0b3IiOnRydWUsImF1dG9TeW5jIjpmYWxzZSwidXBkYXRlRGlhZ3JhbSI6ZmFsc2V9)
+    
     ```
+
+
