@@ -3,8 +3,8 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  color: #eef0ef;
-  text-shadow: 2px 2px 3px #000000;
+  color:#111313;
+  /* text-shadow: 2px 2px 3px #000;;*/
 }
 
 h3 {
@@ -45,6 +45,7 @@ div[class^="ftn-"], div[class*=" #ftn-"] {
 .navbar .navbar-nav .nav-link.active {
   font-weight: 700!important;
   color: #e3e5e8!important;
+  text-shadow: 2px 2px 3px #000000!important;
 }
 
 .avatar-hexagon {
