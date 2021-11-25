@@ -12,8 +12,8 @@ comments: false  # Show comments?
 
 Batchen, G. (2020). Roger Blackley (1953–2019). Australian and New Zealand Journal of Art, 20(1), 151–153. https://doi.org/10.1080/14434318.2020.1792045
 Plummer, M, & Tappenden, A. (2016). Out of the woods: the Return of Twin Peaks. Enjoy Public Art Gallery. http://enjoy.org.nz/publishing/the-occasional-journal/the-dendromaniac/out-of-the-woods-the-return-of-twin-peaks#article
-Plummer, Matt. (2006). Archive Fever? Unpacking Archiving Fever. In Adam Art Gallery.
-Plummer, Matt. (2007). “I’ll Still Be Here When You’re Gone” : The Archival Strategy of Malcolm Ross. Reading Room.
+Plummer, Matt. (2006). A*rchive Fever? Unpacking Archiving Fever*. In Adam Art Gallery.
+Plummer, Matt. (2007). *“I’ll Still Be Here When You’re Gone” : The Archival Strategy of Malcolm Ross*. Reading Room.
 Plummer, Matt. (2009). Mirrored Years: Yayoi Kusama At The City Gallery, Wellington. Art New Zealand.
 Plummer, Matt. (2010). Legendary Obscurity: The Working Life Of Malcolm Ross.
 Plummer, Matt. (2011). “God Rot The Bastard Who Opens This Box” : Researching Malcolm Ross. Art Association of Australia and New Zealand 2011 Annual Conference.
@@ -36,4 +36,4 @@ Plummer, Matt. (2019b). The Art of Arguments: In Conversation with Geoffrey Batc
 Plummer, Matt. (2020). Running Rāpoi: Rebooting Research Computing at Victoria University of Wellington. EResearch New Zealand .
 Shep, S, Dudding, M., Gigliotti, S., Plummer, M., Priestley, R., & Towl, L. (2016). From MOOCs to Makerspaces. Recalibrating Historical Thinking for the Digital Age. In N. Wright (Ed.), There and back: Charting flexible pathways in open, mobile and distance education Conference Proceedings (pp. 195–199). DEANZ. http://flanz.org.nz/flanzorg/wp-content/uploads/2016/06/DEANZ16-Conference-proceedings11-April.pdf
 Shep, S, Lenihan, R., McKinley, D., Plummer, M., & Dudding, M. (2017). Moving beyond the Threshold: Investigating Digital Literacies and Historical Thinking in New Zealand Universities. Practice and Evidence of the Scholarship of Teaching and Learning in Higher Education, 12(2), 312–332.
-Shep, SJ, Lenihan, R., McKinley, D., Plummer, M., & Dudding, M. (2014). Moving beyond the 
+Shep, SJ, Lenihan, R., McKinley, D., Plummer, M., & Dudding, M. (2014). Moving beyond the Threshold: Investigating Digital Literacies and Historical Thinking in New Zealand Universities. https://www.ee.ucl.ac.uk/~mflanaga/TC2014Programme.html
