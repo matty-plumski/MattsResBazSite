@@ -64,3 +64,8 @@ clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
   padding: 0 20px;
   margin: 0 auto;
 }
+
+/*changed the weight of author name in bottom author card for posts etc*/
+.author-card .card-title {
+  font-weight: 500;
+}

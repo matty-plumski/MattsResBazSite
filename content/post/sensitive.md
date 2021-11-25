@@ -1,3 +1,14 @@
+---
+title: Collecting Sensitive Data with Qualtrics
+summary: Step-by-step tips for deidenitfying data in Qualtrics, based on material from Brown University
+date: "2021-06-28T00:00:00Z"
+
+reading_time: false  #?
+share: false  # Show social sharing links?
+profile: true  # Show author profile?
+comments: false  # Show comments?
+---
+
 # Collecting Sensitive Data (in Qualtrics)
 
 In most cases when collecting personal or sensitive data, it's important to keep survey responses separate from any identifying data such as an email address. This helps ensure good data hygeine and mitigates risks if there happens to be an unfortunate data breache.
