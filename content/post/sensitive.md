@@ -9,11 +9,12 @@ profile: true  # Show author profile?
 comments: false  # Show comments?
 ---
 
+
 # Collecting Sensitive Data (in Qualtrics)
 
 In most cases when collecting personal or sensitive data, it's important to keep survey responses separate from any identifying data such as an email address. This helps ensure good data hygeine and mitigates risks if there happens to be an unfortunate data breache.
 
-If there's no need to collect personally identifiable data, best practice is not to ask for it. Remember the principle, **only collect what you need**! 
+If there's no need to  identifiable data, best practice is not to ask for it. Remember the principle, **only collect what you need**! 
 
 However, there are cases where you may need or want to preserve the option to align deidentified survey data with contact information, or other information, from your survey respondentes. For example, you might need to compare a participant’s response from one survey to the next in a longitudinal study; or there might be a good reason why you need to follow up with them.
 
@@ -118,7 +119,8 @@ When you download your data from the Research Survey, the value indicated in the
 In the first appraoch the participant ID was automatically generated when the participant took a screener survey. 
 
 #### Using Pre-Assigned Participant IDs
-In this scenario, you start with an Excel spreadsheet with participant info and pre-assigned participant IDs. In Qualtrics, Panels allow you to send out surveys to specific people using their e-mail. In order to still keep data anonymous you need to have an `ID#` in data and not their personal information. When they click on the link in their email the following instructions will allow you to add variables in your data to track who is who anonymously - especially if you send them multiple surveys.
+In this scenario, you start with an Excel spreadsheet with participant info and pre-assigned participant IDs. In Qualtrics, Panels allow you to send out surveys to specific people using their e-mail. 
+In order to still keep data anonymous you need to have an `ID#` in your data set and not their personal information. When they click on the link in their email the following instructions will allow you to add variables in your data to track who is who anonymously - especially if you send them multiple surveys.
 
  
 
@@ -134,7 +136,7 @@ You can include the name and email address as it they will be stripped out of th
 #### Second: Create the Survey
 Create a survey. (New to Qualtrics? Here’s their basic documentation on creating a survey.)
 
-Create a new panel, choose to import from a file, and upload your .csv file. If you’ve never created a panel before, Qualtrics has instructions here. When you upload the .csv file into the panel, the column with the heading "ID" (and any additional columns you added to its right) should be in blue, the rest should be black.
+Create a new panel, choose to `import` from a file, and upload your .csv file. If you’ve never created a panel before, Qualtrics has instructions here. When you upload the .csv file into the panel, the column with the heading "ID" (and any additional columns you added to its right) should be in blue, the rest should be black.
 
 Now, you will add Embedded Data to the survey so the ID, as well as any additional columns you added to its right, will be included in your data set. Click the Survey Flow button.
 
@@ -168,3 +170,32 @@ Create contact list, then `Distributions > Compose Email > To > Select Contacts 
 When you download your data, it will not include the values in the first four columns of your panel. However, it will include the ID so that you could, for example, identify participants who should take a second survey based on their responses to the first, or compensate participants for their effort, using the contact information in your original .csv.
 
 To maintain confidentiality, take precautions if you download and store your survey responses and panel .csv; for example, you might password protect these files, password protect your computer, and/or obscure the file names so the relationship is not obvious to someone who might unexpectedly access your files.
+
+# Anonymizing Responses in Qualtrics
+
+
+Qualtrics’ default setting is to store participants’ panel information (which is considered Personally Identifiable Information) and IP addresses in the data set with their survey responses. 
+
+Instead, you must choose to anonymize responses. This default setting must be changed for each individual survey.  There is no way to create a global setting for your account.
+
+
+### How To Anonymize Responses
+1. As soon as you create a new survey, immediately go to the Survey Options.
+
+2. Under Security, move the `Anonymize Responses` slide to `on`
+
+3. Click `Save Changes` if the option appears.
+
+This will prevent panel information and IP addresses from being stored in your collected responses. It will apply to every response collected in this particular survey, and it cannot be undone.
+
+
+
+https://www.qualtrics.com/support/survey-platform/common-use-cases-rc/assigning-randomized-ids-to-respondents/
+
+
+https://community.qualtrics.com/XMcommunity/discussion/15387/how-to-assign-a-participant-id-number-and-attach-to-my-another-survey
+
+
+![](https://i.imgur.com/iqco5kV.png)
+
+Based on documentation from [Brown University](https://ithelp.brown.edu/kb/qualtrics)
