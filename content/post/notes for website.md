@@ -9,25 +9,27 @@ profile: true  # Show author profile?
 comments: false  # Show comments?
 ---
 ### Resources
-[Blogdown](https://evamaerey.github.io/what_how_guides/academic_website_w_blogdown)
 
-[Leslie Mynt](https://lmyint.github.io/post/hugo-academic-tips/#full-content-rss)
+
+[Tips for using the Acadmic theme, Leslie Myint](https://lmyint.github.io/post/hugo-academic-tips/) Great overview of useful customisation options, incuding making use of custom themes and fonts. *Tip* Code snippets can be copied directly from the site and then tweaked as you desire.
 
 [7 Ways You Can Further Customize the Hugo Academic Theme](https://isabella-b.com/blog/hugo-academic-customization/)
 
 [How to style images with markdown](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
 
-[HackMD] (https://hackmd.io/)
+[Blogdown](https://evamaerey.github.io/what_how_guides/academic_website_w_blogdown)
 
-[Mermaid editor] (https://mermaid-js.github.io/mermaid-live-editor/)
+[HackMD](https://hackmd.io/) Great online tool to mock up markdown content if learning how it works. Use side-by-side mode to see how a What you see is what you get *WYSIWYG) editor on the left pane, and how this renders on the web on the right. Tip- you can copy and paste the markdown code (from the left pane) right into the body of a blog post, project, publication or other content type in your website. 
+
+[Mermaid editor](https://mermaid-js.github.io/mermaid-live-editor/) Online editor to build diagrams. As with HackMD, code used here can be copy and pasted into pages on your site. 
 
 ### Design tools
 
-[ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en)
+[ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) Useful for hexadecimal web colour values by pointing and clicking on any webpage 
 
-[Wappalyzer](https://www.wappalyzer.com/)
+[Wappalyzer](https://www.wappalyzer.com/) Provides information on what technologies have been used to build existing websites - great if you see a site you like and want to get an insight into how it was developed.
 
-[Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf "Link to VS Code short Cuts")
+[Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf "Link to VS Code short Cuts") Feature rich, ifree text editor
 
 ### Tips
 - ALT/CMD + TAB to switch between tabs
