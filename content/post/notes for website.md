@@ -11,13 +11,13 @@ comments: false  # Show comments?
 ### Resources
 
 
--[Tips for using the Acadmic theme, Leslie Myint](https://lmyint.github.io/post/hugo-academic-tips/) 
+- [Tips for using the Acadmic theme, Leslie Myint](https://lmyint.github.io/post/hugo-academic-tips/) 
 
 Great overview of useful customisation options, incuding making use of custom themes and fonts. *Tip* Code snippets can be copied directly from the site and then tweaked as you desire.
 
--[7 Ways You Can Further Customize the Hugo Academic Theme](https://isabella-b.com/blog/hugo-academic-customization/)
+- [7 Ways You Can Further Customize the Hugo Academic Theme](https://isabella-b.com/blog/hugo-academic-customization/)
 
--[How to style images with markdown](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
+- [How to style images with markdown](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
 
 - [Blogdown](https://evamaerey.github.io/what_how_guides/academic_website_w_blogdown)
 
@@ -35,9 +35,11 @@ Online editor to build diagrams. As with HackMD, code used here can be copy and 
 
 Useful for hexadecimal web colour values by pointing and clicking on any webpage 
 
-- [Wappalyzer](https://www.wappalyzer.com/) Provides information on what technologies have been used to build existing websites - great if you see a site you like and want to get an insight into how it was developed.
+- [Wappalyzer](https://www.wappalyzer.com/) 
+Provides information on what technologies have been used to build existing websites - great if you see a site you like and want to get an insight into how it was developed.
 
-- [Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf "Link to VS Code short Cuts") Feature rich, ifree text editor
+- [Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf "Link to VS Code short Cuts") 
+Feature rich, ifree text editor
 
 ### Tips
 - ALT/CMD + TAB to switch between tabs
