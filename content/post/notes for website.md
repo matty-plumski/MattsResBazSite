@@ -19,7 +19,7 @@ Great overview of useful customisation options, incuding making use of custom th
 
 -[How to style images with markdown](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
 
-- -[Blogdown](https://evamaerey.github.io/what_how_guides/academic_website_w_blogdown)
+- [Blogdown](https://evamaerey.github.io/what_how_guides/academic_website_w_blogdown)
 
 - [HackMD](https://hackmd.io/) 
 
