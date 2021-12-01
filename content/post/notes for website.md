@@ -1,5 +1,5 @@
 ---
-title: Notes for Building a Research Portfolio Wesite with Git Workshops
+title: Notes for Building a Research Portfolio Website with Git Workshops
 summary: Useful links for helping shape your Academic site
 date: "2018-06-28T00:00:00Z"
 
@@ -29,7 +29,6 @@ Why use a text editor, rather than microsoft word? MS Word, adds a lot of metada
 
 
 - [Tips for using the Acadmic theme, Leslie Myint](https://lmyint.github.io/post/hugo-academic-tips/) 
-
 Great overview of useful customisation options, incuding making use of custom themes and fonts. *Tip* Code snippets can be copied directly from the site and then tweaked as you desire.
 
 - [7 Ways You Can Further Customize the Hugo Academic Theme](https://isabella-b.com/blog/hugo-academic-customization/)
@@ -39,7 +38,6 @@ Great overview of useful customisation options, incuding making use of custom th
 - [Blogdown](https://evamaerey.github.io/what_how_guides/academic_website_w_blogdown)
 
 - [HackMD](https://hackmd.io/) 
-
 Great online tool to mock up markdown content if learning how it works. Use side-by-side mode to see how a What you see is what you get *WYSIWYG) editor on the left pane, and how this renders on the web on the right. Tip- you can copy and paste the markdown code (from the left pane) right into the body of a blog post, project, publication or other content type in your website. 
 
 - [Mermaid editor](https://mermaid-js.github.io/mermaid-live-editor/) 
