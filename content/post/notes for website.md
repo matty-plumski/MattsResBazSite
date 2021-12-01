@@ -1,5 +1,5 @@
 ---
-title: Website links
+title: Notes for Building a Research Portfolio Wesite with Git Workshops
 summary: Useful links for helping shape your Academic site
 date: "2018-06-28T00:00:00Z"
 
@@ -8,6 +8,23 @@ share: true  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
 ---
+### Notes
+
+Widely used theme - pros - lots of resources, active community, more likely to be maintained. cons - can look a little generic.
+
+Why use a text editor, rather than microsoft word? MS Word, adds a lot of metadata (AKA crap) to the file. Text editors offer many tools helpful - including highlighting code. It is a different environment, but incredibly useful to know.
+
+### GitHub Desktop
+- visual view of changes
+- must save file before changes appear
+- if more than one file is made, must add a custom message to the commit - this is to help your future self
+
+### Goals
+- focus on the content, not the webdesign* (*unless you enjoy this or are looking for some virtuous procrastination)
+- understand basics of web markup & design languages and protocols
+- understand the affordances and limitations of static sites (e.g. Jekyll, Hugo) vs Databases (Wordpress)
+- feel confident to look for anwers online
+
 ### Resources
 
 
@@ -51,19 +68,4 @@ Feature rich, ifree text editor
 - Copy and paste code snippets  (e.g. css values)
 - save images directly to local folders used for website. Right-click save image as, overwrite (click on existing file, e.g. featured.png), simplify name, take note of file type (jpg, png). Make sure it is compatible. file conversion tools available.
 
-### Notes
 
-Widely used theme - pros - lots of resources, active community, more likely to be maintained. cons - can look a little generic.
-
-Why use a text editor, rather than microsoft word? MS Word, adds a lot of metadata (AKA crap) to the file. Text editors offer many tools helpful - including highlighting code. It is a different environment, but incredibly useful to know.
-
-### GitHub Desktop
-- visual view of changes
-- must save file before changes appear
-- if more than one file is made, must add a custom message to the commit - this is to help your future self
-
-### Goals
-- focus on the content, not the webdesign* (*unless you enjoy this or are looking for some virtuous procrastination)
-- understand basics of web markup & design languages and protocols
-- understand the affordances and limitations of static sites (e.g. Jekyll, Hugo) vs Databases (Wordpress)
-- feel confident to look for anwers online
