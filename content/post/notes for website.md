@@ -44,6 +44,8 @@ Great online tool to mock up markdown content if learning how it works. Use side
 
 Online editor to build diagrams. As with HackMD, code used here can be copy and pasted into pages on your site. 
 
+- [How to work with BibTeX files](https://citeprep.com/wowchemy-academic/how-to-work-with-bibtex-file-in-hugo-academic/) 
+
 ### Design tools
 
 - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) 

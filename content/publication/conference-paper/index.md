@@ -22,7 +22,7 @@ abstract: At 8:30am on October 3rd 2014, Twin Peaks co-creators David Lynch and 
 # Summary. An optional shortened abstract.
 summary: Never before, in the history of television, had a program inspired so many millions of people to debate and analyze it deeply and excitedly for so prolonged a period … Twin Peaks generated the kinds of annotated scrutiny usually associated with scholarly journals and literary monographs ….
 
-tags:
+tags: Collaboration, Online Journal, Arts, Media Studies
 -
 featured: true
 
@@ -282,3 +282,5 @@ Matt Plummer and Alice Tappenden are Wellington-based writers. They both hold MA
 *   [34.](#ftn-link-34)
     
     [http://www.theguardian.com/artanddesign/gallery/2014/jun/22/twin-peaks-postcards-in-pictures](http://www.theguardian.com/artanddesign/gallery/2014/jun/22/twin-peaks-postcards-in-pictures) (accessed February 18, 2015).
+
+    row shortcode row.html: <div class="row">{{ .Inner }}</div> column shortcode column.html: <div class="col-md">{{ .Inner }}</div> call it like that: {{% row %}} {{% column % }}something{{% /column %}} {{% column % }}something else{{% /c…
