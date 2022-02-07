@@ -11,5 +11,7 @@ view: 2
 header:
   caption: ""
   image: ""
+
+type: book
 ---
 

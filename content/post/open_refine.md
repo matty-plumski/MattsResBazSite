@@ -13,6 +13,8 @@ diagram: true
 header:
   caption: 
   image:
+
+columns: two
 ---
 
 
