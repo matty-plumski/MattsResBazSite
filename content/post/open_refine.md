@@ -17,9 +17,6 @@ header:
 columns: two
 ---
 
-
-#  Open Refine With [Powerhouse Museum](https://www.maas.museum/powerhouse-museum/) collection data
-
 Based on [this video](https://)
 > Discover how to prep data using OpenRefine.
 
@@ -37,7 +34,7 @@ Based on [this video](https://)
 
 ![OR logo](https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenRefine_New_Logo.png)
 
-Also think about the meaning/s of *refined* - both removing impurities, but elegant, and "improved to be precise or sublte":
+Also think about the meaning/s of *refined* - both removing impurities, but elegant, and "improved to be precise or subtle":
 
 ![](https://i.imgur.com/uhRz6F8.png)
 
