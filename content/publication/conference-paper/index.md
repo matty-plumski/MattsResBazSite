@@ -281,4 +281,4 @@ Matt Plummer and Alice Tappenden are Wellington-based writers. They both hold MA
     
     [http://www.theguardian.com/artanddesign/gallery/2014/jun/22/twin-peaks-postcards-in-pictures](http://www.theguardian.com/artanddesign/gallery/2014/jun/22/twin-peaks-postcards-in-pictures) (accessed February 18, 2015).
 
-    row shortcode row.html: <div class="row">{{ .Inner }}</div> column shortcode column.html: <div class="col-md">{{ .Inner }}</div> call it like that: {{% row %}} {{% column % }}something{{% /column %}} {{% column % }}something else{{% /c…
+  
