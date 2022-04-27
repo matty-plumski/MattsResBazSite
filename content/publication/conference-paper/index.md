@@ -21,9 +21,7 @@ publication_short: In *STP*
 abstract: At 8:30am on October 3rd 2014, Twin Peaks co-creators David Lynch and Mark Frost simultaneously tweeted “That gum you like is going to come back in style!” While gibberish to the uninitiated, fans of the series immediately knew what it signalled, Laura Palmer’s promise to see us again in twenty-five years would be made good. Sure enough, soon after this typically cryptic heads-up US cable channel Showtime announced that nine new episodes of one of television’s most iconic shows will air in 2016, each written by Lynch/Frost, directed by Lynch, and shot on 35-mm celluloid.4 Little more has been revealed about the forthcoming third series other than Frost’s assurances that the plot will tell the “next chapter” of theTwin Peaks story, that it will be set in the present day, and most recently that Kyle MacLachlan will return to play Special Agent Dale Cooper.
 # Summary. An optional shortened abstract.
 summary: Never before, in the history of television, had a program inspired so many millions of people to debate and analyze it deeply and excitedly for so prolonged a period … Twin Peaks generated the kinds of annotated scrutiny usually associated with scholarly journals and literary monographs ….
-
 tags: Collaboration, Online Journal, Arts, Media Studies
--
 featured: true
 
 links:
