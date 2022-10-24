@@ -58,9 +58,9 @@ On the benefits of learning a second language, for example, he opines: “If you
 
 Keeping an open mind, embracing the uncertainty that comes with true learning, and always remaining up for a new challenge — these are the qualities that characterise the best academic minds, minds like Michael’s that never seem to settle for the status quo. And increasingly, even in the humanities, these minds are turning to computational methods as another way of realising things can be thought — and done — differently. 
 
-- - 
+<hr />
 
-Sinologie Heidelberg Alumni Netzwerk (SHAN) [Interview with Professor Michael Radich](https://www.zo.uni-heidelberg.de/sinologie/shan/nl-archiv/2021_NL108_1.html)
+### Sinologie Heidelberg Alumni Netzwerk (SHAN) [Interview with Professor Michael Radich](https://www.zo.uni-heidelberg.de/sinologie/shan/nl-archiv/2021_NL108_1.html)
 
 
 >  "I find it impossible to imagine that in a few decades, or some appropriate period of time, we will not be looking back at this period before computational humanities the same way we that we now look back the natural sciences before mechanical aids to human perception. I think that computational tools in the Humanities resemble tools like microscopes or telescopes in other domains, which have vastly expanded the range of human perception, and make it possible for us to see very far into interstellar space or very small microscopic space."
