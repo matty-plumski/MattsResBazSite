@@ -63,7 +63,7 @@ Keeping an open mind, embracing the uncertainty that comes with true learning, a
 ### Sinologie Heidelberg Alumni Netzwerk (SHAN) [Interview with Professor Michael Radich](https://www.zo.uni-heidelberg.de/sinologie/shan/nl-archiv/2021_NL108_1.html)
 
 
->  "I find it impossible to imagine that in a few decades, or some appropriate period of time, we will not be looking back at this period before computational humanities the same way we that we now look back the natural sciences before mechanical aids to human perception. I think that computational tools in the Humanities resemble tools like microscopes or telescopes in other domains, which have vastly expanded the range of human perception, and make it possible for us to see very far into interstellar space or very small microscopic space."
+>  "I find it impossible to imagine that in a few decades . . . we will not be looking back at this period before computational humanities the same way we that we now look back the natural sciences before mechanical aids to human perception. I think that computational tools in the Humanities resemble tools like microscopes or telescopes in other domains, which have vastly expanded the range of human perception, and make it possible for us to see very far into interstellar space or very small microscopic space."
 
 
  *Where do you think computational aids can lead Sinology, Buddhology and the Humanities in general?*
