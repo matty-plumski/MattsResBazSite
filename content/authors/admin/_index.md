@@ -6,7 +6,7 @@ title: Matt Plummer
 superuser: true
 
 # Role/position
-role: Digital Research Consultant
+role: Senior Research Partner
 
 # Organizations/Affiliations
 organizations:
@@ -19,6 +19,8 @@ bio: Digital interpreter with a background in the arts and technology.
 interests:
 - Digital Humanities
 - Researcher Development
+- Research Consulting 
+- Facilitating collaborative projects
 - High Performance Computing
 - Audio/visual Performance
 - Web Design
@@ -68,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Matt’s background spans the arts and technology, working as an Art History Teaching Fellow and Visual Resources Administrator before taking up a position in Victoria University of Wellington’s Information Technology unit.  
-
-In his current role as a Digital Research Consultant, he acts as a ‘digital interpreter’, working with researchers from different disciplines to utilise technology in innovative and transformative ways. He has assisted with the development of open source projects and research tools, coordinated numerous community-building and training events, and enjoys the opportunity to introduce researchers to new approaches and collaborators.
+My background spans the arts and technology. I work with researchers from different disciplines to facilitate collaborative projects, especially those which utilise technology in innovative and transformative ways. I've assisted with the development of a range of open source projects, augmented reality applications, research tools and community building and skills training events.
