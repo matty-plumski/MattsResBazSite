@@ -69,3 +69,10 @@ clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
 .author-card .card-title {
   font-weight: 500;
 }
+
+/*test change of active link*/
+a, h3.article-title a:hover {
+  color: #00c8ff;
+  text-decoration: none;
+  transition: color .6s ease;
+}
