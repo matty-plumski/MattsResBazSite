@@ -7,7 +7,7 @@ reading_time: false  #?
 share: true  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
-url: '#posts'
+
 ---
 ### Notes
 
