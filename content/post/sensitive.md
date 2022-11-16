@@ -3,7 +3,7 @@ title: Collecting Sensitive Data with Qualtrics
 summary: Step-by-step tips for deidenitfying data in Qualtrics, based on material from Brown University
 date: "2021-06-28T00:00:00Z"
 
-reading_time: false  #?
+reading_time: true  #?
 share: false  # Show social sharing links?
 profile: true  # Show author profile?
 comments: false  # Show comments?
