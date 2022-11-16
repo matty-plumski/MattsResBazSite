@@ -39,18 +39,18 @@ These two approaches are:
 This is the second survey the participant will take. You don’t need to add all the questions yet, we’re just setting it up now so we can get its link.
 ![](https://i.imgur.com/jOuv4QW.png)
 
-1. Create a survey. *(New to Qualtrics? Here’s their basic documentation on creating a survey.) You can add questions now or do it later.*
+1. Create a survey. *(New to Qualtrics? [Here’s their introductory "base camp" for creating a research survey](https://basecamp.qualtrics.com/page/learn-to-use-qualtrics-research-core).) You can add questions now or do it later.*
 
-2. Click the Survey Flow button at the top of the survey.
+2. Click the `Survey Flow` button at the top of the survey.
 
 
-3. Add a new element, and choose Embedded Data as the type, and name the field ID - it’ll look like the image below. This is where the value passed from the screener survey will be stored.
+3. Add a new element, and choose `Embedded Data` as the type, and name the field ID - it’ll look like the image below. This is where the value passed from the screener survey will be stored.
 
  ![](https://i.imgur.com/oPoqoaK.png)
 ![](https://i.imgur.com/gn9vRAJ.png)
 
 
-Click the `Move` link and drag this Embedded Data flow element above, but on the same hierarchical level, as the Default Question Block. We like it to be first so any future logic in our survey won’t skip over it. After you move it, the two blocks will look like this:
+Click the `Move` link and drag this `Embedded Data` flow element above, but on the same hierarchical level, as the Default Question Block. We like it to be first so any future logic in our survey won’t skip over it. After you move it, the two blocks will look like this:
 
 ![](https://i.imgur.com/KEzxA7b.png)![]
 
@@ -69,16 +69,15 @@ e.g. http://vuw.qualtrics.com/jfe/form/SV_71lLtOC5SEZLwSG
 
 
 ### Step 2: **Create the Screener Survey**
-Create a survey and add questions. (New to Qualtrics? Here’s their basic documentation on creating a survey.)
+Create a survey and add questions. *(New to Qualtrics? [Here’s their introductory "base camp" for creating a research survey](https://basecamp.qualtrics.com/page/learn-to-use-qualtrics-research-core).)
+Click the `Survey Flow` button at the top of the survey.
 
-Click the Survey Flow button at the top of the survey.
-
-Add a new element, and choose Embedded Data as the type. Call this field ID as you did before, but this time, click Set a Value Now, and set it equal to `${e://Field/ResponseID}`  (you can just copy and paste that value into the text box). This ResponseID refers to a randomly generated unique value that Qualtrics already creates every time someone fills out your survey. When you’re done, it will look like this:
+Add a new element, and choose `Embedded Data` as the type. Call this field ID as you did before, but this time, click `Set a Value Now`, and set it equal to `${e://Field/ResponseID}`  (you can just copy and paste that value into the text box). This `ResponseID` refers to a randomly generated unique value that Qualtrics already creates every time someone fills out your survey. When you’re done, it will look like this:
 
 ![](https://i.imgur.com/Bo2zhPr.png)
 
 
-As previously, click the Move link inside the element box, and drag this Embedded Data flow element above (but on the same hierarchical level) as the Default Question Block. We do this so that every survey participant is assigned an ID before answering the questions. After you move it, the two blocks will look like this:
+As previously, click the `Move` link inside the element box, and drag this `Embedded Data` flow element above (but on the same hierarchical level) as the Default Question Block. We do this so that every survey participant is assigned an ID before answering the questions. After you move it, the two blocks will look like this:
 
 
 Survey Termination section, select `Redirect to a URL`.
@@ -93,7 +92,7 @@ Paste the anonymous survey link for the other survey (Research Survey) - the lin
 
 
 
-As usual, Publish your screener survey and share the anonymous link with participants.
+You can then [publish](https://www.qualtrics.com/support/survey-platform/survey-module/survey-publishing-versions/) your screener survey and share the anonymous link with participants.
 
 http://vuw.qualtrics.com/jfe/form/SV_eWnGsmQIDlNrLZY
  
@@ -113,8 +112,6 @@ When you download your data from the Research Survey, the value indicated in the
 ## Approach 2: Using Pre-Generated Participant IDs
 
 
-
-
 In the first appraoch the participant ID was automatically generated when the participant took a screener survey. 
 
 #### Using Pre-Assigned Participant IDs
@@ -127,17 +124,17 @@ In order to still keep data anonymous you need to have an `ID#` in your data set
 
 Use the format below to create your panel. It needs to be saved as a `.csv` file - you can create it in Excel. The first four headings have to be exactly the same as the example: FirstName, LastName, Email, ExternalDataReference. The rest of the headings can be whatever variables you want embedded in your data set. One of these should contain the same participant ID as is in the ExternalDataReference column. In this example, we called that column “ID” - you can call it something different as long as you use that name consistently when following other parts of these instructions which refer to ID.
 
-You can include the name and email address as it they will be stripped out of the results as long as you use the recommended column names (FirstName, LastName, Email, ExternalDataReference). Including the name in the panel allows you to personalize the email you will be sending out for survey. By following the rest of these instructions, Qualtrics will omit any information in the first four columns, leaving only the ID (and whatever other additional columns you add) in the dataset at the end of the survey.
+You can include the name and email address as it they will be stripped out of the results as long as you use the recommended column names (`FirstName`, `LastName`, `Email`, `ExternalDataReference`). Including the name in the panel allows you to personalize the email you will be sending out for survey. By following the rest of these instructions, Qualtrics will omit any information in the first four columns, leaving only the ID (and whatever other additional columns you add) in the dataset at the end of the survey.
 
 
  
 
 #### Second: Create the Survey
-Create a survey. (New to Qualtrics? Here’s their basic documentation on creating a survey.)
+Create a survey. 
 
 Create a new panel, choose to `import` from a file, and upload your .csv file. If you’ve never created a panel before, Qualtrics has instructions here. When you upload the .csv file into the panel, the column with the heading "ID" (and any additional columns you added to its right) should be in blue, the rest should be black.
 
-Now, you will add Embedded Data to the survey so the ID, as well as any additional columns you added to its right, will be included in your data set. Click the Survey Flow button.
+Now, you will add `Embedded Data` to the survey so the ID, as well as any additional columns you added to its right, will be included in your data set. Click the Survey Flow button.
 
 ![](https://i.imgur.com/LP0d0AB.png)
 
@@ -166,16 +163,16 @@ Create contact list, then `Distributions > Compose Email > To > Select Contacts 
  
 
 #### Step 3: View Responses 
-When you download your data, it will not include the values in the first four columns of your panel. However, it will include the ID so that you could, for example, identify participants who should take a second survey based on their responses to the first, or compensate participants for their effort, using the contact information in your original .csv.
+When you download your data, it will not include the values in the first four columns of your panel. However, it will include the ID so that you could, for example, identify participants who should take a second survey based on their responses to the first, or compensate participants for their effort, using the contact information in your original `.csv`.
 
-To maintain confidentiality, take precautions if you download and store your survey responses and panel .csv; for example, you might password protect these files, password protect your computer, and/or obscure the file names so the relationship is not obvious to someone who might unexpectedly access your files.
+To maintain confidentiality, take precautions if you download and store your survey responses and panel `.csv`; for example, you might password protect these files, password protect your computer, and/or obscure the file names so the relationship is not obvious to someone who might unexpectedly access your files.
 
 # Anonymizing Responses in Qualtrics
 
 
 Qualtrics’ default setting is to store participants’ panel information (which is considered Personally Identifiable Information) and IP addresses in the data set with their survey responses. 
 
-Instead, you must choose to anonymize responses. This default setting must be changed for each individual survey.  There is no way to create a global setting for your account.
+Instead, you'll need to anonymize responses, and to do this the default setting must be changed for each individual survey.  There is no way to create a global setting for your account.
 
 
 ### How To Anonymize Responses
