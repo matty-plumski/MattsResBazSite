@@ -11,11 +11,11 @@ toc: true
 
 ---
 
-In most cases when collecting personal or sensitive data, it's important to keep survey responses separate from any identifying data such as an email address. This helps ensure good data hygeine and mitigates risks if there happens to be an unfortunate data breache.
+In most cases when collecting personal or sensitive data, it's important to keep survey responses separate from any identifying data such as an email address. This helps ensure good data hygeine and mitigates risks if there happens to be an unfortunate data breach.
 
 If there's no need to have identifiable data, best practice is not to ask for it. Remember the principle, **only collect what you need**! 
 
-However, there are cases where you may need or want to preserve the option to align deidentified survey data with contact information, or other information, from your survey respondentes. For example, you might need to compare a participant’s response from one survey to the next in a longitudinal study; or there might be a good reason why you need to follow up with them.
+However, there are cases where you may need (or want) to preserve the option to align deidentified survey data with contact information, or other information, from your survey respondentes. For example, you might need to compare a participant’s response from one survey to the next in a longitudinal study; or there might be a good reason why you need to follow up with them.
 
 Two Qualtrics-based approaches for solving this common research problem involve the creation and use of a `participant ID`, a unique, non-personally identifiable "identifier" which is meaningless on its own, but can be used to link to personally identifiable information when a researcher has a cause to do so. 
 
