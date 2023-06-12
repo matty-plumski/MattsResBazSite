@@ -1,5 +1,5 @@
 ---
-title: Linking Research outputs to Rāpoi
+title: Linking Research outputs to Rāpoi in Elements
 summary: Documentation on how to link research ouputs using Rāpoi to Elements profiles
 date: "2023-06-01T00:00:00Z"
 
@@ -13,7 +13,6 @@ comments: false  # Show comments?
 #   caption: "Step ladder leading to clouds by Zamurovic Brothers from Noun Project"
 #   image: "step_ladder.jpg"
 ---
-# Linking Research outputs to Rāpoi in Elements
 
 **Prerequites** - to complete this process, you'll need to have an Elements profile. Elements is VUW's research management system, and all academic staff should have access by default. If you are a post-graduate student, you may not have a public profile page, but you should still be able to log in with your VUW staff credentials and carry out the process.
 
@@ -25,7 +24,7 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
 
 3. Navigate to output that's made use of Rāpoi (publication, grant or activity) by clicking on the ```VIEW ALL``` button at the bottom right of each card (e.g. Publication>View All ):
 
-<img src="https://hackmd.io/_uploads/ByHdxRQPh.png" alt="Image" style="max-width:100%;" />
+<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_c7c44ca35e6299cc094bab30f66484f9.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1686532761&Signature=TJvxPZj6Ksjzrklc32neAtAz888%3D" alt="Image" style="max-width:100%;" />
 <br>
 ![](https://hackmd.io/_uploads/rk8wI07w2.png)
 
