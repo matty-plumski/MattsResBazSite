@@ -22,43 +22,56 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
 
 1. Log in to Elements (elements.wgtn.ac.nz) and make sure relevant research outputs (funded grant, journal article etc) are present in your Elements profile. If they are not showing, the outputs can be added manually (see [guide pdf, pp 38-39](https://intranet.wgtn.ac.nz/staff/research/using-elements/guide-staff-profiles.pdf)).
 
-3. Navigate to output that's made use of Rāpoi (publication, grant or activity) by clicking on the ```VIEW ALL``` button at the bottom right of each card (e.g. Publication>View All ):
+3. Navigate to output that's made use of Rāpoi (publication, grant or activity) by clicking on the ```VIEW ALL``` button at the bottom right of each card (For this example, we'll use ```Publication > VIEW ALL```):
 
-<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_c7c44ca35e6299cc094bab30f66484f9.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1686532761&Signature=TJvxPZj6Ksjzrklc32neAtAz888%3D" alt="Image" style="max-width:100%;" />
-<br>
-![](https://hackmd.io/_uploads/rk8wI07w2.png)
+
+
+![](https://hackmd.io/_uploads/SkCnmQSD3.png)
+
+
+
 
 <p>
     
+    
 3. Click on the relevant publication:
 
-  ![](https://hackmd.io/_uploads/BkQQwAmP2.png)
+![](https://hackmd.io/_uploads/SJ2f4mBPn.png)
 
 <p>
     
 4. Click on ```RELATIONSHIPS``` - ```CREATE NEW``` on the right hand side of the interface:
 
-<img src="https://i.imgur.com/DvsFLB5.png" alt="Image" style="max-width:100%;" />
+
+![](https://hackmd.io/_uploads/BJE5EmHPn.png)
 
 <p>
 
 5. The ```Create links to this publication``` pop-up window should appear. Select the ```Equipment``` option 
 
-<img src="https://i.imgur.com/qe2C6UD.png" alt="Image" style="max-width:100%;" />
+
 
 <p>
+    
+![](https://hackmd.io/_uploads/B1FA4XrDn.png)
+
+1. Type ```Rapoi``` into the ```Name``` field, and with ```Linked to``` set to 
+
+![](https://hackmd.io/_uploads/HkN8lzED3.png)
 
 6. Check links are correct, then click on ```Create one new link```
 
-<img src="https://i.imgur.com/PfdUkiu.png" alt="Image" style="max-width:100%;" />
+<img src="https://hackmd.io/_uploads/B1FNS7BDh.png" alt="Image" style="max-width:100%;" />
 
 <p>
     
 7. Check to see your item appears on the [public Rāpoi elements profile page](https://people.wgtn.ac.nz/equipment/412229) under [publications](https://people.wgtn.ac.nz/equipment/412229/publications) or [grants](https://people.wgtn.ac.nz/equipment/412229/grants).
 
 
-<img src="https://hackmd.io/_uploads/ryP_R67vh.png" alt="Image" style="max-width:100%;" />
+
+<img src="https://hackmd.io/_uploads/HyBaH7BD2.png" alt="Image" style="max-width:100%;" />
 
 <p>
     
 8. Repeat steps 2-7 as needed. 
+    
