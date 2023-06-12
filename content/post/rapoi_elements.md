@@ -25,6 +25,7 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
 3. Navigate to output that's made use of Rāpoi (publication, grant or activity) by clicking on the ```VIEW ALL``` button at the bottom right of each card (For this example, we'll use ```Publication > VIEW ALL```):
 
 
+<img src="static/media/Rapoi_Elements_1.png" alt="Image" style="max-width:100%;" />
 
 ![](https://hackmd.io/_uploads/SkCnmQSD3.png)
 
