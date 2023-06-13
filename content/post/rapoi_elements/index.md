@@ -28,6 +28,7 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
 
 ![](https://hackmd.io/_uploads/SkCnmQSD3.png)
 
+![](https://mattsresbazsite.netlify.app/post/rapoi_elements/images/Rapoi_Elements_1.png)
 
 
 
@@ -68,7 +69,8 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
 7. Check to see your item appears on the [public Rāpoi elements profile page](https://people.wgtn.ac.nz/equipment/412229) under [publications](https://people.wgtn.ac.nz/equipment/412229/publications) or [grants](https://people.wgtn.ac.nz/equipment/412229/grants).
 
 
-[](images/Rapoi_Elements_1.png)
+![](images/Rapoi_Elements_1.png)
+
 <img src="https://hackmd.io/_uploads/HyBaH7BD2.png" alt="Image" style="max-width:100%;" />
 
 <p>
