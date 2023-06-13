@@ -76,3 +76,11 @@ a, h3.article-title a:hover {
   text-decoration: none;
   transition: color .6s ease;
 }
+
+.wg-about .background-img {
+  position: absolute;
+  bottom: 0px;
+  @media screen and (min-width: 768px) {
+    bottom: 70px;
+}
+}
