@@ -55,7 +55,7 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
     
 ![](https://hackmd.io/_uploads/B1FA4XrDn.png)
 
-1. Type ```Rapoi``` into the ```Name``` field, and with ```Linked to``` set to 
+1. Type ```Rapoi``` into the ```Name``` field, and with ```Linked to``` set to Any
 
 ![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_5ffbce22f508430f41e9cf03a1e1c1fc.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1686621399&Signature=YBJd3itVvKxrvhoCfrIauL5EtJ8%3D)
 
@@ -68,7 +68,7 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
 7. Check to see your item appears on the [public Rāpoi elements profile page](https://people.wgtn.ac.nz/equipment/412229) under [publications](https://people.wgtn.ac.nz/equipment/412229/publications) or [grants](https://people.wgtn.ac.nz/equipment/412229/grants).
 
 
-
+[](images/Rapoi_Elements_1.png)
 <img src="https://hackmd.io/_uploads/HyBaH7BD2.png" alt="Image" style="max-width:100%;" />
 
 <p>
