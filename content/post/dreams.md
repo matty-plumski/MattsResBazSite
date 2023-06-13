@@ -12,11 +12,6 @@ comments: false  # Show comments?
 header:
   caption: "Step ladder leading to clouds by Zamurovic Brothers from Noun Project"
   image: "step_ladder.jpg"
-
-menu:
-nav:
-  parent: child_folder1
-  identifier: child_folder_item1
 ---
 
 As I write this I’m sitting in a refurbished cottage in rural Wairarapa. For a secluded getaway spot it’s idyllic: tree-lined valley, rolling hills, friendly farm animals. The perfect place to get a bit of writing done, right? However there’s a catch — no 4G, no 3G, in fact no G of any kind; there’s MySky, but no internet. How the heck am I supposed to research and write a tech column?
