@@ -14,7 +14,7 @@ comments: false  # Show comments?
 #   image: "step_ladder.jpg"
 ---
  {{ if ( $.Page.IsMenuCurrent "main" .) ( $.Page.HasMenuCurrent "main" .) }} active {{- end -}}
- 
+
 **Prerequites** - to complete this process, you'll need to have an Elements profile. Elements is VUW's research management system, and all academic staff should have access by default. If you are a post-graduate student, you may not have a public profile page, but you should still be able to log in with your VUW staff credentials and carry out the process.
 
 For full documentation on Staff Profiles with Elements, see [this page](https://intranet.wgtn.ac.nz/staff/research/using-elements/guide-staff-profiles.pdf). 
@@ -26,10 +26,7 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
 3. Navigate to output that's made use of Rāpoi (publication, grant or activity) by clicking on the ```VIEW ALL``` button at the bottom right of each card (For this example, we'll use ```Publication > VIEW ALL```):
 
 
-
-![](https://hackmd.io/_uploads/SkCnmQSD3.png)
-
-![](https://mattsresbazsite.netlify.app/post/rapoi_elements/images/Rapoi_Elements_1.png)
+![](images/Rapoi_Elements_1.png)
 
 
 
@@ -38,41 +35,36 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
     
 3. Click on the relevant publication:
 
-![](https://hackmd.io/_uploads/SJ2f4mBPn.png)
+![](images/Rapoi_Elements_2.png)
 
 <p>
     
 4. Click on ```RELATIONSHIPS``` - ```CREATE NEW``` on the right hand side of the interface:
 
 
-![](https://hackmd.io/_uploads/BJE5EmHPn.png)
+![](images/Rapoi_Elements_3.png)
 
 <p>
 
 5. The ```Create links to this publication``` pop-up window should appear. Select the ```Equipment``` option 
 
 
+![](images/Rapoi_Elements_4.png)
 
-<p>
-    
-![](https://hackmd.io/_uploads/B1FA4XrDn.png)
+6. Type ```Rapoi``` into the ```Name``` field, and with ```Linked to``` set to Any
 
-1. Type ```Rapoi``` into the ```Name``` field, and with ```Linked to``` set to Any
-
-![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_5ffbce22f508430f41e9cf03a1e1c1fc.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1686621399&Signature=YBJd3itVvKxrvhoCfrIauL5EtJ8%3D)
+![](images/Rapoi_Elements_5.png)
 
 6. Check links are correct, then click on ```Create one new link```
 
-<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_a3432c8a2c8e1c8a332fdeabcce8e5ab.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1686612713&Signature=e%2FAsXLG9YpQxQ5TfN4fhsS6x%2Fw4%3D" alt="Image" style="max-width:100%;" />
+![](images/Rapoi_Elements_6.png)
 
 <p>
     
 7. Check to see your item appears on the [public Rāpoi elements profile page](https://people.wgtn.ac.nz/equipment/412229) under [publications](https://people.wgtn.ac.nz/equipment/412229/publications) or [grants](https://people.wgtn.ac.nz/equipment/412229/grants).
 
 
-![](images/Rapoi_Elements_1.png)
-
-<img src="https://hackmd.io/_uploads/HyBaH7BD2.png" alt="Image" style="max-width:100%;" />
+![](images/Rapoi_Elements_7.png)
 
 <p>
     
