@@ -25,7 +25,6 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
 3. Navigate to output that's made use of Rāpoi (publication, grant or activity) by clicking on the ```VIEW ALL``` button at the bottom right of each card (For this example, we'll use ```Publication > VIEW ALL```):
 
 
-<img src="static/media/Rapoi_Elements_1.png" alt="Image" style="max-width:100%;" />
 
 ![](https://hackmd.io/_uploads/SkCnmQSD3.png)
 
@@ -58,11 +57,11 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
 
 1. Type ```Rapoi``` into the ```Name``` field, and with ```Linked to``` set to 
 
-![](https://hackmd.io/_uploads/HkN8lzED3.png)
+![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_5ffbce22f508430f41e9cf03a1e1c1fc.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1686621399&Signature=YBJd3itVvKxrvhoCfrIauL5EtJ8%3D)
 
 6. Check links are correct, then click on ```Create one new link```
 
-<img src="https://hackmd.io/_uploads/B1FNS7BDh.png" alt="Image" style="max-width:100%;" />
+<img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_a3432c8a2c8e1c8a332fdeabcce8e5ab.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1686612713&Signature=e%2FAsXLG9YpQxQ5TfN4fhsS6x%2Fw4%3D" alt="Image" style="max-width:100%;" />
 
 <p>
     
@@ -76,3 +75,12 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
     
 8. Repeat steps 2-7 as needed. 
     
+    
+    
+    
+
+    
+
+
+
+
