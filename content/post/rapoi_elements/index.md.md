@@ -55,19 +55,17 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
     
 ![](https://hackmd.io/_uploads/B1FA4XrDn.png)
 
-6. Type ```Rapoi``` into the ```Name``` field, and with ```Linked to``` set to 
+1. Type ```Rapoi``` into the ```Name``` field, and with ```Linked to``` set to 
 
 ![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_5ffbce22f508430f41e9cf03a1e1c1fc.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1686621399&Signature=YBJd3itVvKxrvhoCfrIauL5EtJ8%3D)
 
-7. Check links are correct, then click on ```Create one new link```
+6. Check links are correct, then click on ```Create one new link```
 
 <img src="https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_a3432c8a2c8e1c8a332fdeabcce8e5ab.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1686612713&Signature=e%2FAsXLG9YpQxQ5TfN4fhsS6x%2Fw4%3D" alt="Image" style="max-width:100%;" />
 
-![Image alt](images/Rapoi_Elements_6.png)
-
 <p>
     
-8. Check to see your item appears on the [public Rāpoi elements profile page](https://people.wgtn.ac.nz/equipment/412229) under [publications](https://people.wgtn.ac.nz/equipment/412229/publications) or [grants](https://people.wgtn.ac.nz/equipment/412229/grants).
+7. Check to see your item appears on the [public Rāpoi elements profile page](https://people.wgtn.ac.nz/equipment/412229) under [publications](https://people.wgtn.ac.nz/equipment/412229/publications) or [grants](https://people.wgtn.ac.nz/equipment/412229/grants).
 
 
 
@@ -75,7 +73,7 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
 
 <p>
     
-9. Repeat steps 2-8 as needed. 
+8. Repeat steps 2-7 as needed. 
     
     
     
