@@ -55,20 +55,20 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
 
 ![](images/Rapoi_Elements_5.png)
 
-6. Check links are correct, then click on ```Create one new link```
+7. Check links are correct, then click on ```Create one new link```
 
 ![](images/Rapoi_Elements_6.png)
 
 <p>
     
-7. Check to see your item appears on the [public Rāpoi elements profile page](https://people.wgtn.ac.nz/equipment/412229) under [publications](https://people.wgtn.ac.nz/equipment/412229/publications) or [grants](https://people.wgtn.ac.nz/equipment/412229/grants).
+8. Check to see your item appears on the [public Rāpoi elements profile page](https://people.wgtn.ac.nz/equipment/412229) under [publications](https://people.wgtn.ac.nz/equipment/412229/publications) or [grants](https://people.wgtn.ac.nz/equipment/412229/grants).
 
 
 ![](images/Rapoi_Elements_7.png)
 
 <p>
     
-8. Repeat steps 2-7 as needed. 
+9. Repeat steps 2-8 as needed. 
     
     
     

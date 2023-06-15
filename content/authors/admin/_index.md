@@ -73,5 +73,5 @@ user_groups:
 My background spans the arts and technology. I work with researchers from different disciplines to facilitate collaborative projects, especially those which utilise technology in innovative and transformative ways. I've assisted with the development of a range of open source projects, augmented reality applications, research tools and community building and skills training events.
 
 <div>
-  <a class="background-img" href="#img1"><img id="img1" src="static/media/vector_range.jpg"></a>
+  <a class="background-img" href="#img1"><img id="img1" src="https://mattsresbazsite.netlify.app/post/rapoi_elements/images/vector_range.jpg"></a>
 </div>
