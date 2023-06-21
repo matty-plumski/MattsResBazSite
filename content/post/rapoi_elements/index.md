@@ -13,7 +13,6 @@ comments: false  # Show comments?
 #   caption: "Step ladder leading to clouds by Zamurovic Brothers from Noun Project"
 #   image: "step_ladder.jpg"
 ---
-<a class="nav-link active" href="/#posts" data-target="#Posts"><span>POSTS</span></a>
 
 **Prerequites** - to complete this process, you'll need to have an Elements profile. Elements is VUW's research management system, and all academic staff should have access by default. If you are a post-graduate student, you may not have a public profile page, but you should still be able to log in with your VUW staff credentials and carry out the process.
 

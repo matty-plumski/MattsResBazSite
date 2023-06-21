@@ -72,4 +72,3 @@ user_groups:
 <div>
 My background spans the arts and technology. I work with researchers from different disciplines to facilitate collaborative projects, especially those which utilise technology in innovative and transformative ways. I've assisted with the development of a range of open source projects, augmented reality applications, research tools and community building and skills training events.
 </div> 
-
