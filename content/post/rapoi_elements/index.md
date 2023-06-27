@@ -24,24 +24,17 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
 
 1. Navigate to output that's made use of Rāpoi (publication, grant or activity) by clicking on the ```VIEW ALL``` button at the bottom right of each card (For this example, we'll use ```Publication > VIEW ALL```):
 
-
 ![](https://mattsresbazsite.netlify.app/post/rapoi_elements/images/Rapoi_Elements_1.png)
-
-
-    
+ 
 1. Click on the relevant publication:
 
 ![](https://mattsresbazsite.netlify.app/post/rapoi_elements/images/Rapoi_Elements_2.png)
-
-
-    
+   
 1. Click on ```RELATIONSHIPS``` - ```CREATE NEW``` on the right hand side of the interface:
-
 
 ![](https://mattsresbazsite.netlify.app/post/rapoi_elements/images/Rapoi_Elements_3.png)
 
 1. The ```Create links to this publication``` pop-up window should appear. Select the ```Equipment``` option 
-
 
 ![](https://mattsresbazsite.netlify.app/post/rapoi_elements/images/Rapoi_Elements_4.png)
 
@@ -52,16 +45,11 @@ For full documentation on Staff Profiles with Elements, see [this page](https://
 1. Check links are correct, then click on ```Create one new link```
 
 ![](https://mattsresbazsite.netlify.app/post/rapoi_elements/images/Rapoi_Elements_6.png)
-
-<p>
-    
+  
 1. Check to see your item appears on the [public Rāpoi elements profile page](https://people.wgtn.ac.nz/equipment/412229) under [publications](https://people.wgtn.ac.nz/equipment/412229/publications) or [grants](https://people.wgtn.ac.nz/equipment/412229/grants).
-
 
 ![](https://mattsresbazsite.netlify.app/post/rapoi_elements/images/Rapoi_Elements_7.png)
 
-<p>
-    
 1. Repeat steps 2-8 as needed. 
     
     
