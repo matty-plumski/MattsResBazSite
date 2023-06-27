@@ -18,8 +18,6 @@ comments: false  # Show comments?
 
 For full documentation on Staff Profiles with Elements, see [this page](https://intranet.wgtn.ac.nz/staff/research/using-elements/guide-staff-profiles.pdf). 
 
-
-
 1. Log in to Elements (elements.wgtn.ac.nz) and make sure relevant research outputs (funded grant, journal article etc) are present in your Elements profile. If they are not showing, the outputs can be added manually (see [guide pdf, pp 38-39](https://intranet.wgtn.ac.nz/staff/research/using-elements/guide-staff-profiles.pdf)).
 
 1. Navigate to output that's made use of Rāpoi (publication, grant or activity) by clicking on the ```VIEW ALL``` button at the bottom right of each card (For this example, we'll use ```Publication > VIEW ALL```):
